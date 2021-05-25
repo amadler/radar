@@ -1,0 +1,6618 @@
+[
+  {
+    "emiter": "01Cyberaton Proenergy SA",
+    "stockName": "01CYBATON",
+    "ticker": "01C",
+    "ISIN": "PLVCAOC00015",
+    "industry": "Energia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "11 bit studios SA",
+    "stockName": "11BIT",
+    "ticker": "11B",
+    "ISIN": "PL11BTS00015",
+    "industry": "Gry video",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "2C Partners SA",
+    "stockName": "2CPARTNER",
+    "ticker": "2CP",
+    "ISIN": "PL2CPRT00030",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "3R Games SA",
+    "stockName": "3RGAMES",
+    "ticker": "3RG",
+    "ISIN": "PLGRNKT00019",
+    "industry": "Media",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "4Fun Media SA",
+    "stockName": "4FUNMEDIA",
+    "ticker": "4FM",
+    "ISIN": "PL4FNMD00013",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "4Mass SA",
+    "stockName": "4MASS",
+    "ticker": "4MS",
+    "ISIN": "PL4MASS00011",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": null
+  },
+  {
+    "emiter": "4Mobility SA",
+    "stockName": "4MOBILITY",
+    "ticker": "4MB",
+    "ISIN": "PLESLTN00010",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "7FIT SA",
+    "stockName": "7FIT",
+    "ticker": "7FT",
+    "ISIN": "PLTRCPS00016",
+    "industry": "Sieci handlowe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "7Levels SA",
+    "stockName": "7LEVELS",
+    "ticker": "7LV",
+    "ISIN": "PL7LVLS00017",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "AB SA",
+    "stockName": "ABPL",
+    "ticker": "ABE",
+    "ISIN": "PLAB00000019",
+    "industry": "Handel hurtowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Abak SA",
+    "stockName": "ABAK",
+    "ticker": "ABK",
+    "ISIN": "PLABAK000013",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "ABS Investment SA",
+    "stockName": "ABSINVEST",
+    "ticker": "AIN",
+    "ISIN": "PLABSIN00012",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "AC SA",
+    "stockName": "ACAUTOGAZ",
+    "ticker": "ACG",
+    "ISIN": "PLACSA000014",
+    "industry": "Motoryzacja",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Acartus SA",
+    "stockName": "ACARTUS",
+    "ticker": "ACA",
+    "ISIN": "PLACRTS00018",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Ackerman SA",
+    "stockName": "ACKERMAN",
+    "ticker": "ACK",
+    "ISIN": "PLACKRM00010",
+    "industry": "Budownictwo",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Action SA",
+    "stockName": "ACTION",
+    "ticker": "ACT",
+    "ISIN": "PLACTIN00018",
+    "industry": "Handel hurtowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Adatex Deweloper SA",
+    "stockName": "ADATEX",
+    "ticker": "ADX",
+    "ISIN": "PLPIK0000018",
+    "industry": "Sieci handlowe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Adiuvo Investments SA",
+    "stockName": "ADIUVO",
+    "ticker": "ADV",
+    "ISIN": "PLADVIV00015",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Advertigo SA",
+    "stockName": "ADVERTIGO",
+    "ticker": "AVE",
+    "ISIN": "PLADMSC00013",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Aforti Holding SA",
+    "stockName": "AFHOL",
+    "ticker": "AFH",
+    "ISIN": "PLMNTHL00016",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Agencja Rozwoju Innowacji SA",
+    "stockName": "ARI",
+    "ticker": "ARI",
+    "ISIN": "PLAGRIN00013",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Agora SA",
+    "stockName": "AGORA",
+    "ticker": "AGO",
+    "ISIN": "PLAGORA00067",
+    "industry": "Media",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Agroliga Group PLC",
+    "stockName": "AGROLIGA",
+    "ticker": "AGL",
+    "ISIN": "CY0101452114",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Agromep SA",
+    "stockName": "AGROMEP",
+    "ticker": "AGP",
+    "ISIN": "PLAGRMP00010",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Agroton Plc",
+    "stockName": "AGROTON",
+    "ticker": "AGT",
+    "ISIN": "CY0101062111",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Ailleron SA",
+    "stockName": "AILLERON",
+    "ticker": "ALL",
+    "ISIN": "PLWNDMB00010",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Airway Medix SA",
+    "stockName": "AIRWAY",
+    "ticker": "AWM",
+    "ISIN": "PLAIRWY00017",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Aiton Caldwell SA",
+    "stockName": "AITON",
+    "ticker": "AIT",
+    "ISIN": "PLATCDL00013",
+    "industry": "Telekomunikacja",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Akcept Finance SA",
+    "stockName": "AKCEPTFIN",
+    "ticker": "AFC",
+    "ISIN": "PLAKCFN00013",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Alda SA",
+    "stockName": "ALDA",
+    "ticker": "ALD",
+    "ISIN": "PLALDA000010",
+    "industry": "Wyposażenie domu",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "AlejaSamochodowa.pl SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLALSMC00016",
+    "industry": "Handel internetowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Alior Bank SA",
+    "stockName": "ALIOR",
+    "ticker": "ALR",
+    "ISIN": "PLALIOR00045",
+    "industry": "Banki",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "All in! Games SA",
+    "stockName": "AIGAMES",
+    "ticker": "ALG",
+    "ISIN": "PLSNTFG00017",
+    "industry": "Gry video",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Allegro.eu SA",
+    "stockName": "ALLEGRO",
+    "ticker": "ALE",
+    "ISIN": "LU2237380790",
+    "industry": "Handel internetowy",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Alta SA",
+    "stockName": "ALTA",
+    "ticker": "AAT",
+    "ISIN": "PLTRNSU00013",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Altus SA",
+    "stockName": "ALTUSTFI",
+    "ticker": "ALI",
+    "ISIN": "PLATTFI00018",
+    "industry": "Rynek kapitałowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Alumast SA",
+    "stockName": "ALUMAST",
+    "ticker": "ALU",
+    "ISIN": "PLALMST00010",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Alumetal SA",
+    "stockName": "ALUMETAL",
+    "ticker": "AML",
+    "ISIN": "PLALMTL00023",
+    "industry": "Hutnictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Ambra SA",
+    "stockName": "AMBRA",
+    "ticker": "AMB",
+    "ISIN": "PLAMBRA00013",
+    "industry": "Produkcja żywności",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "AMICA Wronki SA",
+    "stockName": "AMICA",
+    "ticker": "AMC",
+    "ISIN": "PLAMICA00010",
+    "industry": "Wyposażenie domu",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Ampli SA w upadłości układowej",
+    "stockName": "AMPLI",
+    "ticker": "APL",
+    "ISIN": "PLAMPLI00019",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "AmRest Holdings SE",
+    "stockName": "AMREST",
+    "ticker": "EAT",
+    "ISIN": "ES0105375002",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Analizy Online SA",
+    "stockName": "ANALIZY",
+    "ticker": "AOL",
+    "ISIN": "PLONLIN00013",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Angel Business Capital SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLMRKHS00011",
+    "industry": "Wyposażenie domu",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Answear.com SA",
+    "stockName": "ANSWEAR",
+    "ticker": "ANR",
+    "ISIN": "PLANSWR00019",
+    "industry": "Handel internetowy",
+    "INFOranking": null
+  },
+  {
+    "emiter": "ANWIM SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "",
+    "industry": "",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Apanet SA",
+    "stockName": "APANET",
+    "ticker": "APA",
+    "ISIN": "PLAPANT00017",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Apator SA",
+    "stockName": "APATOR",
+    "ticker": "APT",
+    "ISIN": "PLAPATR00018",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Apis SA",
+    "stockName": "APIS",
+    "ticker": "ASA",
+    "ISIN": "PLHMSG000019",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Aplisens SA",
+    "stockName": "APLISENS",
+    "ticker": "APN",
+    "ISIN": "PLAPLS000016",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "APN  Promise SA",
+    "stockName": "PROMISE",
+    "ticker": "PRO",
+    "ISIN": "PLAPNPS00017",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Apollo Capital ASI SA",
+    "stockName": "APOLLO",
+    "ticker": "APC",
+    "ISIN": "PLBIOMD00017",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "APS Energia SA",
+    "stockName": "APSENERGY",
+    "ticker": "APE",
+    "ISIN": "PLAPSEN00011",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "AQT Water SA",
+    "stockName": "AQUATECH",
+    "ticker": "AQT",
+    "ISIN": "PLAQTCH00013",
+    "industry": "Budownictwo",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Aqua SA",
+    "stockName": "AQUABB",
+    "ticker": "AQU",
+    "ISIN": "PLAQUA000014",
+    "industry": "Dystrybucja ciepła i wody",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Aqua SA",
+    "stockName": "AQUAPOZ",
+    "ticker": "AQA",
+    "ISIN": "PLAQA0000014",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Archicom SA",
+    "stockName": "ARCHICOM",
+    "ticker": "ARH",
+    "ISIN": "PLARHCM00016",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Arctic Paper SA",
+    "stockName": "ARCTIC",
+    "ticker": "ATC",
+    "ISIN": "PLARTPR00012",
+    "industry": "Drewno i papier",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Arena.pl SA",
+    "stockName": "ARENAPL",
+    "ticker": "ARE",
+    "ISIN": "PLCRBON00018",
+    "industry": "Handel internetowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Arrinera SA",
+    "stockName": "ARRINERA",
+    "ticker": "ARX",
+    "ISIN": "PLABNET00019",
+    "industry": "Motoryzacja",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Art Games Studio SA",
+    "stockName": "ARTGAMES",
+    "ticker": "ARG",
+    "ISIN": "PLARTGS00019",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Arteria SA",
+    "stockName": "ARTERIA",
+    "ticker": "ARR",
+    "ISIN": "PLARTER00016",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Artifex Mundi SA",
+    "stockName": "ARTIFEX",
+    "ticker": "ART",
+    "ISIN": "PLARTFX00011",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "ArtP Capital SA",
+    "stockName": "ARTP",
+    "ticker": "TYP",
+    "ISIN": "PLTLPKA00010",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Arts Alliance SA",
+    "stockName": "AALLIANCE",
+    "ticker": "AAS",
+    "ISIN": "PLMIDVN00017",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "ASBISc Enterprises PLC",
+    "stockName": "ASBIS",
+    "ticker": "ASB",
+    "ISIN": "CY1000031710",
+    "industry": "Handel hurtowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "ASM Group SA",
+    "stockName": "ASMGROUP",
+    "ticker": "ASM",
+    "ISIN": "PLASMGR00014",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "ASMODEV SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "",
+    "industry": "",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Asseco BS SA",
+    "stockName": "ASSECOBS",
+    "ticker": "ABS",
+    "ISIN": "PLABS0000018",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Asseco Poland SA",
+    "stockName": "ASSECOPOL",
+    "ticker": "ACP",
+    "ISIN": "PLSOFTB00016",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Asseco South Eastern Europe SA",
+    "stockName": "ASSECOSEE",
+    "ticker": "ASE",
+    "ISIN": "PLASSEE00014",
+    "industry": "Informatyka",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Astarta Holding NV",
+    "stockName": "ASTARTA",
+    "ticker": "AST",
+    "ISIN": "NL0000686509",
+    "industry": "Produkcja żywności",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Astro SA",
+    "stockName": "ASTRO",
+    "ticker": "ASR",
+    "ISIN": "PLASTRO00013",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Atal SA",
+    "stockName": "ATAL",
+    "ticker": "1AT",
+    "ISIN": "PLATAL000046",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "ATC-Cargo SA",
+    "stockName": "ATCCARGO",
+    "ticker": "ATA",
+    "ISIN": "PLATCRG00013",
+    "industry": "Transport",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Atende SA",
+    "stockName": "ATENDE",
+    "ticker": "ATD",
+    "ISIN": "PLATMSI00016",
+    "industry": "Informatyka",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Atlanta Poland SA",
+    "stockName": "ATLANTAPL",
+    "ticker": "ATP",
+    "ISIN": "PLATLPL00018",
+    "industry": "Produkcja żywności",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Atlantis SE",
+    "stockName": "ATLANTIS",
+    "ticker": "ATS",
+    "ISIN": "EE3100063686",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Atlas Estates Ltd.",
+    "stockName": "ATLASEST",
+    "ticker": "ATL",
+    "ISIN": "GB00B0WDBP88",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "ATM Grupa SA",
+    "stockName": "ATMGRUPA",
+    "ticker": "ATG",
+    "ISIN": "PLATM0000021",
+    "industry": "Media",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Atomic Jelly SA",
+    "stockName": "ATOMJELLY",
+    "ticker": "ATJ",
+    "ISIN": "PLATMCJ00018",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Aton-HT SA",
+    "stockName": "ATONHT",
+    "ticker": "ATO",
+    "ISIN": "PLATNHT00014",
+    "industry": "Recykling",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Atrem SA",
+    "stockName": "ATREM",
+    "ticker": "ATR",
+    "ISIN": "PLATREM00017",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "AUGA Group AB",
+    "stockName": "AUGA",
+    "ticker": "AUG",
+    "ISIN": "LT0000127466",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Auto Partner SA",
+    "stockName": "AUTOPARTN",
+    "ticker": "APR",
+    "ISIN": "PLATPRT00018",
+    "industry": "Motoryzacja",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Automatyka-Pomiary-Sterowanie SA",
+    "stockName": "APS",
+    "ticker": "APS",
+    "ISIN": "PLPOMST00012",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Auxilia SA",
+    "stockName": "AUXILIA",
+    "ticker": "AUX",
+    "ISIN": "PLAXILA00018",
+    "industry": "Ubezpieczenia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Avatrix SA",
+    "stockName": "AVATRIX",
+    "ticker": "AVT",
+    "ISIN": "PLDGTAV00013",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Aztec International SA",
+    "stockName": "AZTEC",
+    "ticker": "AZC",
+    "ISIN": "PLAZTEC00011",
+    "industry": "Budownictwo",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Baltic Bridge SA",
+    "stockName": "WINVEST",
+    "ticker": "WIS",
+    "ISIN": "PLARIEL00046",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Baltic Ceramics SA w likwidacji",
+    "stockName": "BALTICINV",
+    "ticker": "BCI",
+    "ISIN": "PLINPNT00013",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Balticon SA",
+    "stockName": "BALTICON",
+    "ticker": "BLT",
+    "ISIN": "PLBLT0000013",
+    "industry": "Transport",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Banco Santander SA",
+    "stockName": "SANTANDER",
+    "ticker": "SAN",
+    "ISIN": "ES0113900J37",
+    "industry": "Banki",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Bank Gospodarstwa Krajowego",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "",
+    "industry": "",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Bank Handlowy SA",
+    "stockName": "HANDLOWY",
+    "ticker": "BHW",
+    "ISIN": "PLBH00000012",
+    "industry": "Banki",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Bank Millennium SA",
+    "stockName": "MILLENNIUM",
+    "ticker": "MIL",
+    "ISIN": "PLBIG0000016",
+    "industry": "Banki",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Bank Pekao SA",
+    "stockName": "PEKAO",
+    "ticker": "PEO",
+    "ISIN": "PLPEKAO00016",
+    "industry": "Banki",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "BBI Development SA",
+    "stockName": "BBIDEV",
+    "ticker": "BBD",
+    "ISIN": "PLNFI1200018",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Benefit Systems SA",
+    "stockName": "BENEFIT",
+    "ticker": "BFT",
+    "ISIN": "PLBNFTS00018",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Berg Holding SA",
+    "stockName": "BERGHOLDI",
+    "ticker": "BRH",
+    "ISIN": "PLSLKAM00019",
+    "industry": "Nieruchomości",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Berling SA",
+    "stockName": "BERLING",
+    "ticker": "BRG",
+    "ISIN": "PLBRLNG00015",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Beskidzkie Biuro Inwestycyjne SA",
+    "stockName": "BBINWEST",
+    "ticker": "BBA",
+    "ISIN": "PLBBCLS00017",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Best SA",
+    "stockName": "BEST",
+    "ticker": "BST",
+    "ISIN": "PLBEST000010",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Betacom SA",
+    "stockName": "BETACOM",
+    "ticker": "BCM",
+    "ISIN": "PLBTCOM00016",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Binary Helix SA",
+    "stockName": "BINARY",
+    "ticker": "BHX",
+    "ISIN": "PLBNRHL00013",
+    "industry": "Nowe technologie",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Bio Planet SA",
+    "stockName": "BIOPLANET",
+    "ticker": "BIP",
+    "ISIN": "PLBIOPL00013",
+    "industry": "Sieci handlowe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Bioerg SA",
+    "stockName": "BIOERG",
+    "ticker": "BER",
+    "ISIN": "PLBIORG00019",
+    "industry": "Recykling",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "BioFactory SA",
+    "stockName": "BIOFACTOR",
+    "ticker": "BFC",
+    "ISIN": "PLBFCTR00013",
+    "industry": "Drewno i papier",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Biogened SA",
+    "stockName": "BIOGENED",
+    "ticker": "BGD",
+    "ISIN": "PLBIOGN00018",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Biomass Energy Project SA",
+    "stockName": "BIOMASS",
+    "ticker": "BEP",
+    "ISIN": "PLBMSEP00011",
+    "industry": "Energia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "BioMaxima SA",
+    "stockName": "BIOMAXIMA",
+    "ticker": "BMX",
+    "ISIN": "PLBIOMX00015",
+    "industry": "Biotechnologia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Biomed Lublin SA",
+    "stockName": "BIOMEDLUB",
+    "ticker": "BML",
+    "ISIN": "PLBMDLB00018",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Bioton SA",
+    "stockName": "BIOTON",
+    "ticker": "BIO",
+    "ISIN": "PLBIOTN00029",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Biuro Inwestycji Kapitałowych SA",
+    "stockName": "BIK",
+    "ticker": "BIK",
+    "ISIN": "PLBIKPT00014",
+    "industry": "Nieruchomości",
+    "INFOranking": null
+  },
+  {
+    "emiter": "BizTech Konsulting SA",
+    "stockName": "BIZTECH",
+    "ticker": "BTK",
+    "ISIN": "PLBZTKN00013",
+    "industry": "Informatyka",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Black Pearl SA",
+    "stockName": "BPC",
+    "ticker": "BPC",
+    "ISIN": "PLBLKPC00014",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Black Point SA",
+    "stockName": "BLACKPOIN",
+    "ticker": "BPN",
+    "ISIN": "PLBLKPT00018",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Blirt SA",
+    "stockName": "BLIRT",
+    "ticker": "BLR",
+    "ISIN": "PLBLIRT00018",
+    "industry": "Biotechnologia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Bloober Team SA",
+    "stockName": "BLOOBER",
+    "ticker": "BLO",
+    "ISIN": "PLBLOBR00014",
+    "industry": "Gry video",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Blue Tax Group SA",
+    "stockName": "BLUETAX",
+    "ticker": "BTG",
+    "ISIN": "PLBLTXG00010",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Blumerang Investors SA",
+    "stockName": "BLUMERANG",
+    "ticker": "BLU",
+    "ISIN": "PLBLMPI00017",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "BNP Paribas Bank Polska SA",
+    "stockName": "BNPPPL",
+    "ticker": "BNP",
+    "ISIN": "PLBGZ0000010",
+    "industry": "Banki",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "BoomBit SA",
+    "stockName": "BOOMBIT",
+    "ticker": "BBT",
+    "ISIN": "PLBMBIT00010",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Boryszew SA",
+    "stockName": "BORYSZEW",
+    "ticker": "BRS",
+    "ISIN": "PLBRSZW00011",
+    "industry": "Hutnictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "BOŚ SA",
+    "stockName": "BOS",
+    "ticker": "BOS",
+    "ISIN": "PLBOS0000019",
+    "industry": "Banki",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Bowim SA",
+    "stockName": "BOWIM",
+    "ticker": "BOW",
+    "ISIN": "PLBOWM000019",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "BPX SA",
+    "stockName": "BPX",
+    "ticker": "BPX",
+    "ISIN": "PLDOMEX00010",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Brand24 SA",
+    "stockName": "BRAND24",
+    "ticker": "B24",
+    "ISIN": "PLBRN2400013",
+    "industry": "Informatyka",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Bras SA",
+    "stockName": "BRAS",
+    "ticker": "BSA",
+    "ISIN": "PLINVNT00011",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Braster SA w restrukturyzacji",
+    "stockName": "BRASTER",
+    "ticker": "BRA",
+    "ISIN": "PLBRSTR00014",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "British Automotive Holding SA",
+    "stockName": "BAHOLDING",
+    "ticker": "BAH",
+    "ISIN": "PLMRVPL00016",
+    "industry": "Motoryzacja",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Broad Gate SA",
+    "stockName": "BROADGATE",
+    "ticker": "BDG",
+    "ISIN": "PLBRDGT00019",
+    "industry": "Handel hurtowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Browar Czarnków SA",
+    "stockName": "CZARNKOW",
+    "ticker": "BRO",
+    "ISIN": "PLBRWRG00013",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "BTC Studios SA",
+    "stockName": "BLKCHNLAB",
+    "ticker": "BTC",
+    "ISIN": "PLDMNMN00016",
+    "industry": "Gry video",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Budimex SA",
+    "stockName": "BUDIMEX",
+    "ticker": "BDX",
+    "ISIN": "PLBUDMX00013",
+    "industry": "Budownictwo",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Bumech SA",
+    "stockName": "BUMECH",
+    "ticker": "BMC",
+    "ISIN": "PLBMECH00012",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "BVT SA",
+    "stockName": "BVT",
+    "ticker": "BVT",
+    "ISIN": "PLBVTSA00012",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Cambridge Chocolate Technologies SA",
+    "stockName": "CAMBRIDGE",
+    "ticker": "CAM",
+    "ISIN": "PLCCHT000014",
+    "industry": "Biotechnologia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Cannabis Poland SA",
+    "stockName": "CANNABIS",
+    "ticker": "CBD",
+    "ISIN": "PLBLOCM00013",
+    "industry": "Handel internetowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Capital Park SA",
+    "stockName": "CPGROUP",
+    "ticker": "CPG",
+    "ISIN": "PLCPPRK00037",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Capital Partners SA",
+    "stockName": "CAPITAL",
+    "ticker": "CPA",
+    "ISIN": "PLCPTLP00015",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Captor Therapeutics SA",
+    "stockName": "CAPTORTX",
+    "ticker": "CTX",
+    "ISIN": "PLCPTRT00014",
+    "industry": "Biotechnologia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Carbon Studio SA",
+    "stockName": "CARBONSTU",
+    "ticker": "CRB",
+    "ISIN": "PLCRBST00016",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Carlson Investments ASI SA",
+    "stockName": "CARLSON",
+    "ticker": "CAI",
+    "ISIN": "PLHOTB000011",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Carpathia Capital ASI SA",
+    "stockName": "CARPATHIA",
+    "ticker": "CRC",
+    "ISIN": "PLCRPCP00034",
+    "industry": "Rynek kapitałowy",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Caspar Asset Management SA",
+    "stockName": "CASPAR",
+    "ticker": "CSR",
+    "ISIN": "PLCSPAM00017",
+    "industry": "Rynek kapitałowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "CCC SA",
+    "stockName": "CCC",
+    "ticker": "CCC",
+    "ISIN": "PLCCC0000016",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "CD Projekt SA",
+    "stockName": "CDPROJEKT",
+    "ticker": "CDR",
+    "ISIN": "PLOPTTC00011",
+    "industry": "Gry video",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "CDA SA",
+    "stockName": "CDA",
+    "ticker": "CDA",
+    "ISIN": "PLCDA0000018",
+    "industry": "Media",
+    "INFOranking": null
+  },
+  {
+    "emiter": "CDRL SA",
+    "stockName": "CDRL",
+    "ticker": "CDL",
+    "ISIN": "PLCDRL000043",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Celon Pharma SA",
+    "stockName": "CLNPHARMA",
+    "ticker": "CLN",
+    "ISIN": "PLCLNPH00015",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Cenospheres Trade & Engineering SA",
+    "stockName": "CTE",
+    "ticker": "CTE",
+    "ISIN": "PLCNSPR00019",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Centrum Finansowe SA",
+    "stockName": "CFSA",
+    "ticker": "CFS",
+    "ISIN": "PLCFBPS00019",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Centrum Nowoczesnych Technologii SA",
+    "stockName": "CNT",
+    "ticker": "CNT",
+    "ISIN": "PLERGPL00014",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Centuria Group SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLVELTO00012",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Centurion Finance ASI SA",
+    "stockName": "CENTURION",
+    "ticker": "CTF",
+    "ISIN": "PLSTRGM00014",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Cereal Planet Plc",
+    "stockName": "CEREALPLT",
+    "ticker": "CRP",
+    "ISIN": "CY0103021610",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "CEZ a.s.",
+    "stockName": "CEZ",
+    "ticker": "CEZ",
+    "ISIN": "CZ0005112300",
+    "industry": "Energia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "CFI Holding SA",
+    "stockName": "CFI",
+    "ticker": "CFI",
+    "ISIN": "PLINTKS00013",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Cherrypick Games SA",
+    "stockName": "CHERRY",
+    "ticker": "CHP",
+    "ISIN": "PLCHRPK00018",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "CI Games SA",
+    "stockName": "CIGAMES",
+    "ticker": "CIG",
+    "ISIN": "PLCTINT00018",
+    "industry": "Gry video",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Ciech SA",
+    "stockName": "CIECH",
+    "ticker": "CIE",
+    "ISIN": "PLCIECH00018",
+    "industry": "Chemia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "City Service SE",
+    "stockName": "CITYSERV",
+    "ticker": "CTS",
+    "ISIN": "EE3100126368",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Clean&Carbon Energy SA",
+    "stockName": "CCENERGY",
+    "ticker": "CCE",
+    "ISIN": "PLKAREN00014",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Cloud Technologies SA",
+    "stockName": "CLOUD",
+    "ticker": "CLD",
+    "ISIN": "PLCLDTC00019",
+    "industry": "Nowe technologie",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "CM International SA",
+    "stockName": "CMI",
+    "ticker": "CMI",
+    "ISIN": "PLCMINT00013",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Coal Energy SA",
+    "stockName": "COALENERG",
+    "ticker": "CLE",
+    "ISIN": "LU0646112838",
+    "industry": "Górnictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Codeaddict SA",
+    "stockName": "CODEADDIC",
+    "ticker": "CDT",
+    "ISIN": "PLBTEVL00019",
+    "industry": "Informatyka",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Cognor Holding SA",
+    "stockName": "COGNOR",
+    "ticker": "COG",
+    "ISIN": "PLCNTSL00014",
+    "industry": "Hutnictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Columbus Energy SA",
+    "stockName": "COLUMBUS",
+    "ticker": "CLC",
+    "ISIN": "PLSTIGR00012",
+    "industry": "Energia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "ComArch SA",
+    "stockName": "COMARCH",
+    "ticker": "CMR",
+    "ISIN": "PLCOMAR00012",
+    "industry": "Informatyka",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Comeco SA",
+    "stockName": "COMECO",
+    "ticker": "CMC",
+    "ISIN": "PLCOMEC00016",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Comp SA",
+    "stockName": "COMP",
+    "ticker": "CMP",
+    "ISIN": "PLCMP0000017",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Comperia.pl SA",
+    "stockName": "COMPERIA",
+    "ticker": "CPL",
+    "ISIN": "PLCOMPR00010",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Concept Liberty Group SA",
+    "stockName": "LIBERTY",
+    "ticker": "LTG",
+    "ISIN": "PLLBRTG00012",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Copernicus Securities SA",
+    "stockName": "COPERNIC",
+    "ticker": "CRS",
+    "ISIN": "PLCPRSC00012",
+    "industry": "Rynek kapitałowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Corelens SA",
+    "stockName": "CORELENS",
+    "ticker": "COR",
+    "ISIN": "PLCRLNS00018",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "CPD SA",
+    "stockName": "CELTIC",
+    "ticker": "CPD",
+    "ISIN": "PLCELPD00013",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "CPI FIM SA",
+    "stockName": "ORCOGROUP",
+    "ticker": "OPG",
+    "ISIN": "LU0122624777",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "CreativeForge Games SA",
+    "stockName": "CFG",
+    "ticker": "CFG",
+    "ISIN": "PLCRFRG00016",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Creepy Jar SA",
+    "stockName": "CREEPYJAR",
+    "ticker": "CRJ",
+    "ISIN": "PLCRPJR00019",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "CWPE SA",
+    "stockName": "CWPE",
+    "ticker": "CWP",
+    "ISIN": "PLCWPE000017",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Cyfrowe Centrum Serwisowe SA",
+    "stockName": "CCS",
+    "ticker": "CCS",
+    "ISIN": "PLCCS0000012",
+    "industry": "Handel hurtowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Cyfrowy Polsat SA",
+    "stockName": "CYFRPLSAT",
+    "ticker": "CPS",
+    "ISIN": "PLCFRPT00013",
+    "industry": "Telekomunikacja",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Czerwona Torebka SA",
+    "stockName": "CZTOREBKA",
+    "ticker": "CZT",
+    "ISIN": "PLCRWTR00022",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Dadelo SA",
+    "stockName": "DADELO",
+    "ticker": "DAD",
+    "ISIN": "PLDADEL00013",
+    "industry": "Handel internetowy",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Danks ECDP SA",
+    "stockName": "DANKS",
+    "ticker": "DNS",
+    "ISIN": "PLDANKS00014",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "DataWalk SA",
+    "stockName": "DATAWALK",
+    "ticker": "DAT",
+    "ISIN": "PLPILAB00012",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "DB Energy SA",
+    "stockName": "DBENERGY",
+    "ticker": "DBE",
+    "ISIN": "PLDBENR00017",
+    "industry": "Budownictwo",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Decora SA",
+    "stockName": "DECORA",
+    "ticker": "DCR",
+    "ISIN": "PLDECOR00013",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Dekpol SA",
+    "stockName": "DEKPOL",
+    "ticker": "DEK",
+    "ISIN": "PLDEKPL00032",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Dektra SA",
+    "stockName": "DEKTRA",
+    "ticker": "DKR",
+    "ISIN": "PLDKTRA00013",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Delko SA",
+    "stockName": "DELKO",
+    "ticker": "DEL",
+    "ISIN": "PLDELKO00019",
+    "industry": "Handel hurtowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Dent-a-Medical SA",
+    "stockName": "DENTAMDC",
+    "ticker": "DAM",
+    "ISIN": "PLDNTMD00012",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Detalion Games SA",
+    "stockName": "DETGAMES",
+    "ticker": "DEG",
+    "ISIN": "PLDTLGM00019",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "DEUTSCHE BANK AG",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "",
+    "industry": "",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Develia SA",
+    "stockName": "DEVELIA",
+    "ticker": "DVL",
+    "ISIN": "PLLCCRP00017",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Devoran SA",
+    "stockName": "DEVORAN",
+    "ticker": "DEV",
+    "ISIN": "PLVGUAR00011",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Dębica SA",
+    "stockName": "DEBICA",
+    "ticker": "DBC",
+    "ISIN": "PLDEBCA00016",
+    "industry": "Motoryzacja",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "DGA SA",
+    "stockName": "DGA",
+    "ticker": "DGA",
+    "ISIN": "PLDGA0000019",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "DG-Net SA",
+    "stockName": "DGNET",
+    "ticker": "DGN",
+    "ISIN": "PLDGNET00012",
+    "industry": "Telekomunikacja",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Digitree Group SA",
+    "stockName": "DIGITREE",
+    "ticker": "DTR",
+    "ISIN": "PLSARE000013",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Dino Polska SA",
+    "stockName": "DINOPL",
+    "ticker": "DNP",
+    "ISIN": "PLDINPL00011",
+    "industry": "Sieci handlowe",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Ditix SA",
+    "stockName": "DITIX",
+    "ticker": "DTX",
+    "ISIN": "PLFTPRF00016",
+    "industry": "Finanse pozostałe",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Dolnośląskie Centrum Deweloperskie SA",
+    "stockName": "DCD",
+    "ticker": "DCD",
+    "ISIN": "PLTERRA00016",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Dom Development SA",
+    "stockName": "DOMDEV",
+    "ticker": "DOM",
+    "ISIN": "PLDMDVL00012",
+    "industry": "Nieruchomości",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Dom Lekarski SA",
+    "stockName": "DOMLEK",
+    "ticker": "DLK",
+    "ISIN": "PLDMLKR00023",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Dook SA",
+    "stockName": "DOOK",
+    "ticker": "DOK",
+    "ISIN": "PLDOOK000019",
+    "industry": "Informatyka",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Dr. Finance SA",
+    "stockName": "DRFINANCE",
+    "ticker": "DRF",
+    "ISIN": "PLDRD2400010",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Drageus Games SA",
+    "stockName": "DRAGEUS",
+    "ticker": "DRG",
+    "ISIN": "PLDRGGM00013",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Drago entertainment SA",
+    "stockName": "DRAGOENT",
+    "ticker": "DGE",
+    "ISIN": "PLDRG0000013",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Draw Distance SA",
+    "stockName": "DDISTANCE",
+    "ticker": "DDI",
+    "ISIN": "PLIFN4L00018",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Drewex SA",
+    "stockName": "DREWEX",
+    "ticker": "DRE",
+    "ISIN": "PLDREWX00012",
+    "industry": "Drewno i papier",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Drozapol-Profil SA",
+    "stockName": "DROZAPOL",
+    "ticker": "DPL",
+    "ISIN": "PLDRZPL00032",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Duality SA",
+    "stockName": "DUALITY",
+    "ticker": "DUA",
+    "ISIN": "PLDLITY00010",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "easyCall.pl SA",
+    "stockName": "EASYCALL",
+    "ticker": "ECL",
+    "ISIN": "PLESCLL00010",
+    "industry": "Telekomunikacja",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "EC2 SA",
+    "stockName": "EC2",
+    "ticker": "EC2",
+    "ISIN": "PLEC20000010",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "ECC Games SA",
+    "stockName": "ECCGAMES",
+    "ticker": "ECC",
+    "ISIN": "PLECCGM00012",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Echo Investment SA",
+    "stockName": "ECHO",
+    "ticker": "ECH",
+    "ISIN": "PLECHPS00019",
+    "industry": "Nieruchomości",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Ecotech Polska SA",
+    "stockName": "ECOTECH",
+    "ticker": "ECO",
+    "ISIN": "PLECTPL00019",
+    "industry": "Recykling",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "ED Invest SA",
+    "stockName": "EDINVEST",
+    "ticker": "EDI",
+    "ISIN": "PLEDINV00014",
+    "industry": "Nieruchomości",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Edison SA",
+    "stockName": "EDISON",
+    "ticker": "EDN",
+    "ISIN": "PLEDSON00018",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Efekt SA",
+    "stockName": "EFEKT",
+    "ticker": "EFK",
+    "ISIN": "PLEFEKT00018",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "e-kiosk SA",
+    "stockName": "EKIOSK",
+    "ticker": "EKS",
+    "ISIN": "PLEKOSK00019",
+    "industry": "Handel internetowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Eko Export SA",
+    "stockName": "EKOEXPORT",
+    "ticker": "EEX",
+    "ISIN": "PLEKEP000019",
+    "industry": "Recykling",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Ekobox SA",
+    "stockName": "EKOBOX",
+    "ticker": "EBX",
+    "ISIN": "PLEKOBX00018",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Ekopark SA",
+    "stockName": "EKOPARK",
+    "ticker": "EPR",
+    "ISIN": "PLPRIPK00018",
+    "industry": "Budownictwo",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Ekopol SA",
+    "stockName": "EKOPOL",
+    "ticker": "EGH",
+    "ISIN": "PLEKPLG00019",
+    "industry": "Paliwa",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Electroceramics SA",
+    "stockName": "ECERAMICS",
+    "ticker": "ECR",
+    "ISIN": "PLGPFCS00018",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Elektrociepłownia Będzin SA",
+    "stockName": "BEDZIN",
+    "ticker": "BDZ",
+    "ISIN": "PLECBDZ00013",
+    "industry": "Energia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Elektromont SA",
+    "stockName": "EMONT",
+    "ticker": "ELM",
+    "ISIN": "PLEKTRM00016",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Elektrotim SA",
+    "stockName": "ELEKTROTI",
+    "ticker": "ELT",
+    "ISIN": "PLELEKT00016",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Elemental Asia SA",
+    "stockName": "EMTASIA",
+    "ticker": "EMA",
+    "ISIN": "PLCRTCP00010",
+    "industry": "Górnictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Elkop SE",
+    "stockName": "ELKOP",
+    "ticker": "EKP",
+    "ISIN": "PLELKOP00013",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "ELQ SA",
+    "stockName": "ELQ",
+    "ticker": "ELQ",
+    "ISIN": "PLIPOSA00010",
+    "industry": "Energia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Elzab SA",
+    "stockName": "ELZAB",
+    "ticker": "ELZ",
+    "ISIN": "PLELZAB00010",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "EMC Instytut Medyczny SA",
+    "stockName": "EMCINSMED",
+    "ticker": "EMC",
+    "ISIN": "PLEMCIM00017",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Emmerson Realty SA",
+    "stockName": "EMMERSON",
+    "ticker": "EMM",
+    "ISIN": "PLEMRSN00012",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "e-Muzyka SA",
+    "stockName": "EMUZYKA",
+    "ticker": "EMU",
+    "ISIN": "PLEMZKA00019",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Enea SA",
+    "stockName": "ENEA",
+    "ticker": "ENA",
+    "ISIN": "PLENEA000013",
+    "industry": "Energia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Enefi Plc.",
+    "stockName": "ESTAR",
+    "ticker": "EST",
+    "ISIN": "HU0000089198",
+    "industry": "Energia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Enel-Med SA",
+    "stockName": "ENELMED",
+    "ticker": "ENE",
+    "ISIN": "PLENLMD00017",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Energa SA",
+    "stockName": "ENERGA",
+    "ticker": "ENG",
+    "ISIN": "PLENERG00022",
+    "industry": "Energia",
+    "INFOranking": 3
+  },
+  {
+    "emiter": "Energoaparatura SA",
+    "stockName": "ENAP",
+    "ticker": "ENP",
+    "ISIN": "PLENAP000010",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Energoinstal SA",
+    "stockName": "ENERGOINS",
+    "ticker": "ENI",
+    "ISIN": "PLERGIN00015",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Enter Air SA",
+    "stockName": "ENTER",
+    "ticker": "ENT",
+    "ISIN": "PLENTER00017",
+    "industry": "Transport",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "EO Networks SA",
+    "stockName": "EONET",
+    "ticker": "EON",
+    "ISIN": "PLEONTW00016",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Erato Energy ASI SA",
+    "stockName": "TECHINVGR",
+    "ticker": "TIG",
+    "ISIN": "PLPBLIA00012",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Erbud SA",
+    "stockName": "ERBUD",
+    "ticker": "ERB",
+    "ISIN": "PLERBUD00012",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "ERG SA",
+    "stockName": "ERG",
+    "ticker": "ERG",
+    "ISIN": "PLERGZB00014",
+    "industry": "Tworzywa i guma",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "ERSTE BANK AG",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "",
+    "industry": "",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Eskimos SA w restrukturyzacji",
+    "stockName": "ESKIMOS",
+    "ticker": "ESK",
+    "ISIN": "PLESKMS00016",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Esotiq&Henderson SA",
+    "stockName": "ESOTIQ",
+    "ticker": "EAH",
+    "ISIN": "PLESTHN00018",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "EuCO SA",
+    "stockName": "EUCO",
+    "ticker": "EUC",
+    "ISIN": "PLERPCO00017",
+    "industry": "Ubezpieczenia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Eurocash SA",
+    "stockName": "EUROCASH",
+    "ticker": "EUR",
+    "ISIN": "PLEURCH00011",
+    "industry": "Sieci handlowe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Eurohit SA",
+    "stockName": "EUROHIT",
+    "ticker": "ERH",
+    "ISIN": "PLDRKND00010",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Eurohold Bulgaria AD",
+    "stockName": "EUROHOLD",
+    "ticker": "EHG",
+    "ISIN": "BG1100114062",
+    "industry": "Ubezpieczenia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Euroinvestment SA",
+    "stockName": "VISION",
+    "ticker": "VIV",
+    "ISIN": "PLVRTLV00019",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Europejski Fundusz Energii SA",
+    "stockName": "EFENERGII",
+    "ticker": "EFE",
+    "ISIN": "PLINTRW00028",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Eurosnack SA",
+    "stockName": "EUROSNACK",
+    "ticker": "ECK",
+    "ISIN": "PLERSNK00016",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Euro-Tax.pl SA",
+    "stockName": "EUROTAX",
+    "ticker": "ETX",
+    "ISIN": "PLEURTX00012",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Eurotel SA",
+    "stockName": "EUROTEL",
+    "ticker": "ETL",
+    "ISIN": "PLERTEL00011",
+    "industry": "Sieci handlowe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Examobile SA",
+    "stockName": "EXAMOBILE",
+    "ticker": "EXA",
+    "ISIN": "PLEXMBL00010",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Excellence SA",
+    "stockName": "EXCELLENC",
+    "ticker": "EXC",
+    "ISIN": "PLEXCLN00016",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "e-Xim IT SA",
+    "stockName": "EXIMIT",
+    "ticker": "EXM",
+    "ISIN": "PLEXIM000013",
+    "industry": "Informatyka",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Fabryka Konstrukcji Drewnianych SA",
+    "stockName": "FABRYKAKD",
+    "ticker": "FKD",
+    "ISIN": "PLFKDRW00016",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Falcon Games SA",
+    "stockName": "FALCON",
+    "ticker": "FLG",
+    "ISIN": "PLEENRG00014",
+    "industry": "Gry video",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Famur SA",
+    "stockName": "FAMUR",
+    "ticker": "FMF",
+    "ISIN": "PLFAMUR00012",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Fasing SA",
+    "stockName": "FASING",
+    "ticker": "FSG",
+    "ISIN": "PLFSING00010",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Fast Finance SA w restrukturyzacji",
+    "stockName": "FASTFIN",
+    "ticker": "FFI",
+    "ISIN": "PLFSTFC00012",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Feerum SA",
+    "stockName": "FEERUM",
+    "ticker": "FEE",
+    "ISIN": "PLFEERM00018",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Fenghua SoleTech AG",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "DE000A13SX89",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Ferro SA",
+    "stockName": "FERRO",
+    "ticker": "FRO",
+    "ISIN": "PLFERRO00016",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Ferrum SA",
+    "stockName": "FERRUM",
+    "ticker": "FER",
+    "ISIN": "PLFERUM00014",
+    "industry": "Hutnictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Figene Capital SA",
+    "stockName": "FIGENE",
+    "ticker": "FIG",
+    "ISIN": "PLGPPIK00011",
+    "industry": "Energia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Fince Holding SA",
+    "stockName": "AUTOSPA",
+    "ticker": "ASP",
+    "ISIN": "PLAUTSP00014",
+    "industry": "Motoryzacja",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Finhouse SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLFINHS00018",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Fintech SA",
+    "stockName": "FINTECH",
+    "ticker": "FTH",
+    "ISIN": "PLJRSDB00015",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "FinTech Ventures SA",
+    "stockName": "FINVENTUR",
+    "ticker": "FIV",
+    "ISIN": "PLARTBM00013",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Fiten SA w restrukturyzacji",
+    "stockName": "FITEN",
+    "ticker": "FTN",
+    "ISIN": "PLFITEN00013",
+    "industry": "Energia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Fon SE",
+    "stockName": "FON",
+    "ticker": "FON",
+    "ISIN": "EE3100005166",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Forbuild SA",
+    "stockName": "BETOMAX",
+    "ticker": "BTX",
+    "ISIN": "PLBETMX00013",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Forever Entertainment SA",
+    "stockName": "FOREVEREN",
+    "ticker": "FOR",
+    "ISIN": "PLFRENT00014",
+    "industry": "Gry video",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Forposta SA",
+    "stockName": "FORPOSTA",
+    "ticker": "FPO",
+    "ISIN": "PLFRPST00019",
+    "industry": "Transport",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Forte SA",
+    "stockName": "FORTE",
+    "ticker": "FTE",
+    "ISIN": "PLFORTE00012",
+    "industry": "Wyposażenie domu",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Foto Volt Eko Energia SA",
+    "stockName": "FOTOVOLT",
+    "ticker": "FVE",
+    "ISIN": "PLINVFM00012",
+    "industry": "Energia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Fundusz Hipoteczny Dom SA",
+    "stockName": "FHDOM",
+    "ticker": "FHD",
+    "ISIN": "PLFHDOM00010",
+    "industry": "Finanse pozostałe",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Galvo SA",
+    "stockName": "GALVO",
+    "ticker": "GAL",
+    "ISIN": "PLGALVO00017",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Games Operators SA",
+    "stockName": "GAMEOPS",
+    "ticker": "GOP",
+    "ISIN": "PLGMSOP00019",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Gaming Factory SA",
+    "stockName": "GAMFACTOR",
+    "ticker": "GIF",
+    "ISIN": "PLGMNGF00017",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Gamivo SA",
+    "stockName": "GAMIVO",
+    "ticker": "GMV",
+    "ISIN": "PLGMV0000016",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "G-Energy SA",
+    "stockName": "GENRG",
+    "ticker": "GNG",
+    "ISIN": "PLELKPE00014",
+    "industry": "Energia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Genomed SA",
+    "stockName": "GENOMED",
+    "ticker": "GEN",
+    "ISIN": "PLGNOMD00024",
+    "industry": "Biotechnologia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Genomtec SA",
+    "stockName": "GENOMTEC",
+    "ticker": "GMT",
+    "ISIN": "PLGNMTC00017",
+    "industry": "Biotechnologia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "genXone SA",
+    "stockName": "GENXONE",
+    "ticker": "GX1",
+    "ISIN": "PLGENXN00013",
+    "industry": "Biotechnologia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Geo-Term Polska SA",
+    "stockName": "GEOTERM",
+    "ticker": "GTP",
+    "ISIN": "PLGTRMP00010",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Geotrans SA",
+    "stockName": "GEOTRANS",
+    "ticker": "GTS",
+    "ISIN": "PLGEOTR00010",
+    "industry": "Recykling",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Geotrekk SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLPLMKR00019",
+    "industry": "Nowe technologie",
+    "INFOranking": null
+  },
+  {
+    "emiter": "GetBack SA",
+    "stockName": "GETBACK",
+    "ticker": "GBK",
+    "ISIN": "PLGTBCK00297",
+    "industry": "Finanse pozostałe",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Getin Holding SA",
+    "stockName": "GETIN",
+    "ticker": "GTN",
+    "ISIN": "PLGSPR000014",
+    "industry": "Banki",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Getin Noble Bank SA",
+    "stockName": "GETINOBLE",
+    "ticker": "GNB",
+    "ISIN": "PLGETBK00012",
+    "industry": "Banki",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "GKS GieKSa Katowice SA",
+    "stockName": "GKSKAT",
+    "ticker": "GKS",
+    "ISIN": "PLGKS0000016",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "GLG Pharma SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLM100000014",
+    "industry": "Biotechnologia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Global Cosmed SA",
+    "stockName": "GLCOSMED",
+    "ticker": "GLC",
+    "ISIN": "PLGLBLC00011",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Globe Trade Centre SA",
+    "stockName": "GTC",
+    "ticker": "GTC",
+    "ISIN": "PLGTC0000037",
+    "industry": "Nieruchomości",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "GMINA MIASTO ŚWINOUJŚCIE",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "",
+    "industry": "",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Go24.pl SA",
+    "stockName": "GOTFI",
+    "ticker": "GTF",
+    "ISIN": "PLGOTFI00016",
+    "industry": "Rynek kapitałowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Gobarto SA",
+    "stockName": "GOBARTO",
+    "ticker": "GOB",
+    "ISIN": "PLDUDA000016",
+    "industry": "Produkcja żywności",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Golab SA",
+    "stockName": "GOLAB",
+    "ticker": "GOL",
+    "ISIN": "PLGOLAB00019",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Govena Lighting SA",
+    "stockName": "GOVENA",
+    "ticker": "GOV",
+    "ISIN": "PLGVNLT00019",
+    "industry": "Elektromaszynowy",
+    "INFOranking": null
+  },
+  {
+    "emiter": "GPM Vindexus SA",
+    "stockName": "VINDEXUS",
+    "ticker": "VIN",
+    "ISIN": "PLVNDEX00013",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "GPW SA",
+    "stockName": "GPW",
+    "ticker": "GPW",
+    "ISIN": "PLGPW0000017",
+    "industry": "Rynek kapitałowy",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Gremi Media SA",
+    "stockName": "GRMEDIA",
+    "ticker": "GME",
+    "ISIN": "PLGRMID00019",
+    "industry": "Media",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Grempco SA",
+    "stockName": "GREMPCO",
+    "ticker": "GRM",
+    "ISIN": "PLGRMPC00016",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Groclin SA",
+    "stockName": "GROCLIN",
+    "ticker": "GCN",
+    "ISIN": "PLINTGR00013",
+    "industry": "Motoryzacja",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Grodno SA",
+    "stockName": "GRODNO",
+    "ticker": "GRN",
+    "ISIN": "PLGRODN00015",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Grupa Azoty SA",
+    "stockName": "GRUPAAZOTY",
+    "ticker": "ATT",
+    "ISIN": "PLZATRM00012",
+    "industry": "Chemia",
+    "INFOranking": 3
+  },
+  {
+    "emiter": "Grupa Emmerson SA",
+    "stockName": "GRUPAEMM",
+    "ticker": "GEM",
+    "ISIN": "PLEMRCP00011",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Grupa HRC SA",
+    "stockName": "GRUPAHRC",
+    "ticker": "HRC",
+    "ISIN": "PLGRHRC00012",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Grupa Kapitałowa Immobile SA",
+    "stockName": "IMMOBILE",
+    "ticker": "GKI",
+    "ISIN": "PLMAKRM00019",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Grupa Kęty SA",
+    "stockName": "KETY",
+    "ticker": "KTY",
+    "ISIN": "PLKETY000011",
+    "industry": "Hutnictwo",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Grupa Lotos SA",
+    "stockName": "LOTOS",
+    "ticker": "LTS",
+    "ISIN": "PLLOTOS00025",
+    "industry": "Paliwa",
+    "INFOranking": 3
+  },
+  {
+    "emiter": "Grupa Recykl SA",
+    "stockName": "GRUPAREC",
+    "ticker": "GRC",
+    "ISIN": "PLRCKL000010",
+    "industry": "Recykling",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Grupa Trinity SA",
+    "stockName": "GTRINITY",
+    "ticker": "GTY",
+    "ISIN": "PLGTRNT00010",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Grupa Żywiec SA",
+    "stockName": "ZYWIEC",
+    "ticker": "ZWC",
+    "ISIN": "PLZYWIC00016",
+    "industry": "Produkcja żywności",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Harper Hygienics SA",
+    "stockName": "HARPER",
+    "ticker": "HRP",
+    "ISIN": "PLHRPHG00023",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Helio SA",
+    "stockName": "HELIO",
+    "ticker": "HEL",
+    "ISIN": "PLHELIO00014",
+    "industry": "Produkcja żywności",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Hemp & Health SA",
+    "stockName": "HEMP",
+    "ticker": "HMP",
+    "ISIN": "PLEBCSL00011",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Herkules SA",
+    "stockName": "HERKULES",
+    "ticker": "HRS",
+    "ISIN": "PLZRWZW00012",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "HM Inwest SA",
+    "stockName": "HMINWEST",
+    "ticker": "HMI",
+    "ISIN": "PLHMINW00016",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Hollywood SA",
+    "stockName": "HOLLYWOOD",
+    "ticker": "HLD",
+    "ISIN": "PLHOLWD00017",
+    "industry": "Pozostały handel i usługi",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Hornigold Reit SA",
+    "stockName": "HORNIGOLD",
+    "ticker": "HRL",
+    "ISIN": "PLMBLPR00018",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Hortico SA",
+    "stockName": "HORTICO",
+    "ticker": "HOR",
+    "ISIN": "PLHRTIC00014",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Hub.Tech SA",
+    "stockName": "HUBTECH",
+    "ticker": "HUB",
+    "ISIN": "PLBRTZM00010",
+    "industry": "Chemia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Hub4Fintech SA",
+    "stockName": "H4F",
+    "ticker": "H4F",
+    "ISIN": "PLCWA0000018",
+    "industry": "Pozostały handel i usługi",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Hurtimex SA",
+    "stockName": "HURTIMEX",
+    "ticker": "HRT",
+    "ISIN": "PLHRTIM00013",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Huuuge, Inc.",
+    "stockName": "HUUUGE-S144",
+    "ticker": "HUGE",
+    "ISIN": "US44853H1086",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Hydrapres SA",
+    "stockName": "HYDRAPRES",
+    "ticker": "HPS",
+    "ISIN": "PLHDRAP00017",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Hydropress SE",
+    "stockName": "AERFINANC",
+    "ticker": "AER",
+    "ISIN": "GB00B42V2T10",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Hydrotor SA",
+    "stockName": "HYDROTOR",
+    "ticker": "HDR",
+    "ISIN": "PLHDRTR00013",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "i2 Development SA",
+    "stockName": "I2DEV",
+    "ticker": "I2D",
+    "ISIN": "PLI2DVL00014",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "IBC Polska F&P SA",
+    "stockName": "IBCPOLSKA",
+    "ticker": "IBC",
+    "ISIN": "PLIBCPL00018",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "ICPD",
+    "stockName": "ICPD",
+    "ticker": "ICD",
+    "ISIN": "BG1100018057",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "IDH Development SA",
+    "stockName": "IDH",
+    "ticker": "IDH",
+    "ISIN": "PLICI0000010",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "IDM SA",
+    "stockName": "IDMSA",
+    "ticker": "IDM",
+    "ISIN": "PLIDMSA00044",
+    "industry": "Rynek kapitałowy",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "iFirma SA",
+    "stockName": "IFIRMA",
+    "ticker": "IFI",
+    "ISIN": "PLPWRMD00011",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Igoria Trade SA",
+    "stockName": "IGORIA",
+    "ticker": "IGT",
+    "ISIN": "PLIGRTR00014",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Image Power SA",
+    "stockName": "IMAGEPWR",
+    "ticker": "IPW",
+    "ISIN": "PLIMGPW00013",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "IMC SA",
+    "stockName": "IMCOMPANY",
+    "ticker": "IMC",
+    "ISIN": "LU0607203980",
+    "industry": "Produkcja żywności",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Immofinanz AG",
+    "stockName": "IIAAV",
+    "ticker": "IIA",
+    "ISIN": "AT0000A21KS2",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Impel SA",
+    "stockName": "IMPEL",
+    "ticker": "IPL",
+    "ISIN": "PLIMPEL00011",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Impera Capital SA",
+    "stockName": "IMPERA",
+    "ticker": "IMP",
+    "ISIN": "PLNFI0700018",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "IMS SA",
+    "stockName": "IMS",
+    "ticker": "IMS",
+    "ISIN": "PLINTMS00019",
+    "industry": "Media",
+    "INFOranking": 3
+  },
+  {
+    "emiter": "INC SA",
+    "stockName": "INC",
+    "ticker": "INC",
+    "ISIN": "PLINCLT00015",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Incana SA",
+    "stockName": "INCANA",
+    "ticker": "ICA",
+    "ISIN": "PLINCNA00011",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Incuvo SA",
+    "stockName": "INCUVO",
+    "ticker": "IVO",
+    "ISIN": "PLA295700027",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Indos SA",
+    "stockName": "INDOS",
+    "ticker": "INS",
+    "ISIN": "PLINDOS00035",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "IndygoTech Minerals SA w likwidacji",
+    "stockName": "INDYGO",
+    "ticker": "IDG",
+    "ISIN": "PLLSTIA00018",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "InfoScan SA",
+    "stockName": "INFOSCAN",
+    "ticker": "IST",
+    "ISIN": "PLINFSC00019",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Infra SA",
+    "stockName": "INFRA",
+    "ticker": "IFA",
+    "ISIN": "PLINFRA00015",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "ING BANK HIPOTECZNY SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "",
+    "industry": "",
+    "INFOranking": null
+  },
+  {
+    "emiter": "ING Bank Śląski SA",
+    "stockName": "INGBSK",
+    "ticker": "ING",
+    "ISIN": "PLBSK0000017",
+    "industry": "Banki",
+    "INFOranking": 3
+  },
+  {
+    "emiter": "Inkaso WEC SA",
+    "stockName": "KANCELWEC",
+    "ticker": "KPI",
+    "ISIN": "PLKPWEC00015",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Inno-Gene SA",
+    "stockName": "INNOGENE",
+    "ticker": "IGN",
+    "ISIN": "PLINNGN00015",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Inpro SA",
+    "stockName": "INPRO",
+    "ticker": "INP",
+    "ISIN": "PLINPRO00015",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Instal Kraków SA",
+    "stockName": "INSTALKRK",
+    "ticker": "INK",
+    "ISIN": "PLINSTK00013",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "InteliWise SA",
+    "stockName": "INTELIWIS",
+    "ticker": "ITL",
+    "ISIN": "PLITLWS00012",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Intelligent Gaming Solutions SA",
+    "stockName": "INTELGSOL",
+    "ticker": "IGS",
+    "ISIN": "PL2INTC00018",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Inter Cars SA",
+    "stockName": "INTERCARS",
+    "ticker": "CAR",
+    "ISIN": "PLINTCS00010",
+    "industry": "Motoryzacja",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Inter Rao Lietuva AB",
+    "stockName": "INTERAOLT",
+    "ticker": "IRL",
+    "ISIN": "LT0000128621",
+    "industry": "Energia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Interbud-Lublin SA",
+    "stockName": "INTERBUD",
+    "ticker": "ITB",
+    "ISIN": "PLINTBD00014",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Interferie SA",
+    "stockName": "INTERFERI",
+    "ticker": "INF",
+    "ISIN": "PLINTFR00023",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Interma Trade SA w likwidacji",
+    "stockName": "ITMTRADE",
+    "ticker": "ITM",
+    "ISIN": "PLBRIJU00010",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "International Personal Finance plc",
+    "stockName": "PROVIDENT",
+    "ticker": "IPF",
+    "ISIN": "GB00B1YKG049",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Internet Union SA",
+    "stockName": "IU",
+    "ticker": "IUS",
+    "ISIN": "PLINTUN00013",
+    "industry": "Telekomunikacja",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Internity SA",
+    "stockName": "INTERNITY",
+    "ticker": "INT",
+    "ISIN": "PLINTNT00015",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Intersport Polska SA",
+    "stockName": "INTERSPPL",
+    "ticker": "IPO",
+    "ISIN": "PLINTSP00038",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Introl SA",
+    "stockName": "INTROL",
+    "ticker": "INL",
+    "ISIN": "PLINTRL00013",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "InventionMed SA",
+    "stockName": "INVENTION",
+    "ticker": "INM",
+    "ISIN": "PLCDE0000010",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Investeko SA",
+    "stockName": "INVESTEKO",
+    "ticker": "IVE",
+    "ISIN": "PLIVSTK00016",
+    "industry": "Recykling",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Investment Friends Capital SE",
+    "stockName": "IFCAPITAL",
+    "ticker": "IFC",
+    "ISIN": "EE3100065392",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Investment Friends SE",
+    "stockName": "IFSA",
+    "ticker": "IFR",
+    "ISIN": "EE3100143033",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Invista SA",
+    "stockName": "INVISTA",
+    "ticker": "INV",
+    "ISIN": "PLECMNG00019",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Inwestycje.pl SA",
+    "stockName": "INWESTPL",
+    "ticker": "INW",
+    "ISIN": "PLINSTC00010",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "IPO Doradztwo Kapitałowe SA",
+    "stockName": "IPODS",
+    "ticker": "IOD",
+    "ISIN": "PLIPODS00014",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Ipopema Securities SA",
+    "stockName": "IPOPEMA",
+    "ticker": "IPE",
+    "ISIN": "PLIPOPM00011",
+    "industry": "Rynek kapitałowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "ISiAG SA",
+    "stockName": "ISIAG",
+    "ticker": "ISG",
+    "ISIN": "PLINSAG00011",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Izoblok SA",
+    "stockName": "IZOBLOK",
+    "ticker": "IZB",
+    "ISIN": "PLIZBLK00010",
+    "industry": "Tworzywa i guma",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Izolacja Jarocin SA",
+    "stockName": "IZOLACJA",
+    "ticker": "IZO",
+    "ISIN": "PLIZCJR00017",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Izostal SA",
+    "stockName": "IZOSTAL",
+    "ticker": "IZS",
+    "ISIN": "PLIZSTL00015",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "J.W. Construction Holding SA",
+    "stockName": "JWCONSTR",
+    "ticker": "JWC",
+    "ISIN": "PLJWC0000019",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Jastrzębska Spółka Węglowa SA",
+    "stockName": "JSW",
+    "ticker": "JSW",
+    "ISIN": "PLJSW0000015",
+    "industry": "Górnictwo",
+    "INFOranking": 3
+  },
+  {
+    "emiter": "JJ Auto AG",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "DE000A1TNS70",
+    "industry": "Motoryzacja",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "JR Holding ASI SA",
+    "stockName": "JRHOLDING",
+    "ticker": "JRH",
+    "ISIN": "PLJRINV00013",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Jujubee SA",
+    "stockName": "JUJUBEE",
+    "ticker": "JJB",
+    "ISIN": "PLJJBEE00028",
+    "industry": "Gry video",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "JWA SA",
+    "stockName": "JWA",
+    "ticker": "JWA",
+    "ISIN": "PLJWASA00013",
+    "industry": "Informatyka",
+    "INFOranking": null
+  },
+  {
+    "emiter": "JWW Invest SA",
+    "stockName": "JWWINVEST",
+    "ticker": "JWW",
+    "ISIN": "PLJWWNT00018",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "K2 Holding SA",
+    "stockName": "K2HOLDING",
+    "ticker": "K2H",
+    "ISIN": "PLK2ITR00010",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Kancelaria Medius SA w restrukturyzacji",
+    "stockName": "KME",
+    "ticker": "KME",
+    "ISIN": "PLMDIUS00018",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "KB Dom SA",
+    "stockName": "KBDOM",
+    "ticker": "KBD",
+    "ISIN": "PLTRAST00020",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "KBJ SA",
+    "stockName": "KBJ",
+    "ticker": "KBJ",
+    "ISIN": "PLKBJ0000016",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "KCI SA",
+    "stockName": "KCI",
+    "ticker": "KCI",
+    "ISIN": "PLPONAR00012",
+    "industry": "Media",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "KDM Shipping Public Ltd.",
+    "stockName": "KDMSHIPNG",
+    "ticker": "KDM",
+    "ISIN": "CY0102492119",
+    "industry": "Transport",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Kernel Holding SA",
+    "stockName": "KERNEL",
+    "ticker": "KER",
+    "ISIN": "LU0327357389",
+    "industry": "Produkcja żywności",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "KGHM Polska Miedź SA",
+    "stockName": "KGHM",
+    "ticker": "KGH",
+    "ISIN": "PLKGHM000017",
+    "industry": "Górnictwo",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Kino Polska TV SA",
+    "stockName": "KINOPOL",
+    "ticker": "KPL",
+    "ISIN": "PLKNOPL00014",
+    "industry": "Media",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Klabater SA",
+    "stockName": "KLABATER",
+    "ticker": "KBT",
+    "ISIN": "PLKLBTR00014",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Klon SA",
+    "stockName": "KLON",
+    "ticker": "KLN",
+    "ISIN": "PLKLON000010",
+    "industry": "Drewno i papier",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Kogeneracja SA",
+    "stockName": "KOGENERA",
+    "ticker": "KGN",
+    "ISIN": "PLKGNRC00015",
+    "industry": "Energia",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Kompap SA",
+    "stockName": "KOMPAP",
+    "ticker": "KMP",
+    "ISIN": "PLKOMPP00017",
+    "industry": "Drewno i papier",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Komputronik SA  w restrukturyzacji",
+    "stockName": "KOMPUTRON",
+    "ticker": "KOM",
+    "ISIN": "PLKMPTR00012",
+    "industry": "Sieci handlowe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Kool2Play SA",
+    "stockName": "KOOL2PLAY",
+    "ticker": "K2P",
+    "ISIN": "PLKL2PL00014",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Korbank SA",
+    "stockName": "KORBANK",
+    "ticker": "KOR",
+    "ISIN": "PLKRBNK00019",
+    "industry": "Telekomunikacja",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Korporacja KGL SA",
+    "stockName": "KGL",
+    "ticker": "KGL",
+    "ISIN": "PLKRKGL00012",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Koszalińskie Przedsiębiorstwo Przemysłu Drzewnego SA",
+    "stockName": "KPPD",
+    "ticker": "KPD",
+    "ISIN": "PLKPPD000017",
+    "industry": "Drewno i papier",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Krakchemia SA",
+    "stockName": "KRAKCHEM",
+    "ticker": "KCH",
+    "ISIN": "PLKRKCH00019",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Kredyt Inkaso SA",
+    "stockName": "KREDYTIN",
+    "ticker": "KRI",
+    "ISIN": "PLKRINK00014",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "KRKA DD",
+    "stockName": "KRKA",
+    "ticker": "KRK",
+    "ISIN": "SI0031102120",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Kruk SA",
+    "stockName": "KRUK",
+    "ticker": "KRU",
+    "ISIN": "PLKRK0000010",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Kruszwica SA",
+    "stockName": "KRUSZWICA",
+    "ticker": "KSW",
+    "ISIN": "PLKRUSZ00016",
+    "industry": "Produkcja żywności",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Krynica Vitamin SA",
+    "stockName": "KRVITAMIN",
+    "ticker": "KVT",
+    "ISIN": "PLKRVTM00010",
+    "industry": "Produkcja żywności",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Krynicki Recykling SA",
+    "stockName": "KREC",
+    "ticker": "KRC",
+    "ISIN": "PLKRNRC00012",
+    "industry": "Recykling",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "KSG Agro SA",
+    "stockName": "KSGAGRO",
+    "ticker": "KSG",
+    "ISIN": "LU0611262873",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Kupiec SA",
+    "stockName": "KUPIEC",
+    "ticker": "KPC",
+    "ISIN": "PLKUPIC00010",
+    "industry": "Transport",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Labo Print SA",
+    "stockName": "LABOPRINT",
+    "ticker": "LAB",
+    "ISIN": "PLLBPRT00013",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Labocanna SA",
+    "stockName": "LABOCANNA",
+    "ticker": "LCN",
+    "ISIN": "PLCCTLS00017",
+    "industry": "Media",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Langloo.com SA",
+    "stockName": "LANGLOO",
+    "ticker": "LAN",
+    "ISIN": "PLLANGL00010",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Lark.pl SA",
+    "stockName": "LARK",
+    "ticker": "LRK",
+    "ISIN": "PLPPWK000014",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Larq SA",
+    "stockName": "LARQ",
+    "ticker": "LRQ",
+    "ISIN": "PLCAMMD00032",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Lauren Peso Polska SA",
+    "stockName": "LAURENPES",
+    "ticker": "LPS",
+    "ISIN": "PLLRPSP00015",
+    "industry": "Pozostały handel i usługi",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Legimi SA",
+    "stockName": "LEGIMI",
+    "ticker": "LEG",
+    "ISIN": "PLLGIMI00029",
+    "industry": "Informatyka",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Lena Lighting SA",
+    "stockName": "LENA",
+    "ticker": "LEN",
+    "ISIN": "PLLENAL00015",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Lentex SA",
+    "stockName": "LENTEX",
+    "ticker": "LTX",
+    "ISIN": "PLLENTX00010",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Letus Capital SA",
+    "stockName": "LETUS",
+    "ticker": "LET",
+    "ISIN": "PLGDVIS00018",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Libet SA",
+    "stockName": "LIBET",
+    "ticker": "LBT",
+    "ISIN": "PLLBT0000013",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "LIVE MOTION GAMES SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "",
+    "industry": "",
+    "INFOranking": null
+  },
+  {
+    "emiter": "LiveChat Software SA",
+    "stockName": "LIVECHAT",
+    "ticker": "LVC",
+    "ISIN": "PLLVTSF00010",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "LK Designer Shops SA",
+    "stockName": "LKDESIGN",
+    "ticker": "LKS",
+    "ISIN": "PLLKDGS00015",
+    "industry": "Sieci handlowe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Logintrade SA",
+    "stockName": "LGTRADE",
+    "ticker": "LGT",
+    "ISIN": "PLLGNTD00017",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Lokaty Budowlane SA",
+    "stockName": "LOKATYBUD",
+    "ticker": "LBD",
+    "ISIN": "PLFBRD000018",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Lokum Deweloper SA",
+    "stockName": "LOKUM",
+    "ticker": "LKD",
+    "ISIN": "PLLKMDW00049",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "LPP SA",
+    "stockName": "LPP",
+    "ticker": "LPP",
+    "ISIN": "PLLPP0000011",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "LSI Software SA",
+    "stockName": "LSISOFT",
+    "ticker": "LSI",
+    "ISIN": "PLLSSFT00016",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Lubawa SA",
+    "stockName": "LUBAWA",
+    "ticker": "LBW",
+    "ISIN": "PLLUBAW00013",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "LUG SA",
+    "stockName": "LUG",
+    "ticker": "LUG",
+    "ISIN": "PLLUG0000010",
+    "industry": "Budownictwo",
+    "INFOranking": 3
+  },
+  {
+    "emiter": "Lukardi SA",
+    "stockName": "LUKARDI",
+    "ticker": "LUK",
+    "ISIN": "PLSAP0000018",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Luxima SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLLUXIM00011",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "LW Bogdanka SA",
+    "stockName": "BOGDANKA",
+    "ticker": "LWB",
+    "ISIN": "PLLWBGD00016",
+    "industry": "Górnictwo",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "M Food SA",
+    "stockName": "MFOOD",
+    "ticker": "MFD",
+    "ISIN": "PLMDVLP00016",
+    "industry": "Handel hurtowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "M.W. Trade SA",
+    "stockName": "MWTRADE",
+    "ticker": "MWT",
+    "ISIN": "PLMWTRD00013",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "M4B SA",
+    "stockName": "M4B",
+    "ticker": "M4B",
+    "ISIN": "PLM4B0000017",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Mabion SA",
+    "stockName": "MABION",
+    "ticker": "MAB",
+    "ISIN": "PLMBION00016",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Macro Games SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLMRCGM00013",
+    "industry": "Gry video",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Madkom SA",
+    "stockName": "MADKOM",
+    "ticker": "MAD",
+    "ISIN": "PLMADKM00019",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Magna Polonia SA",
+    "stockName": "06MAGNA",
+    "ticker": "06N",
+    "ISIN": "PLNFI0600010",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Makarony Polskie SA",
+    "stockName": "MAKARONPL",
+    "ticker": "MAK",
+    "ISIN": "PLMKRNP00015",
+    "industry": "Produkcja żywności",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "MakoLab SA",
+    "stockName": "MAKOLAB",
+    "ticker": "MLB",
+    "ISIN": "PLMKLAB00023",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Małkowski-Martech SA",
+    "stockName": "MALKOWSKI",
+    "ticker": "MMA",
+    "ISIN": "PLMLKMR00016",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Mangata Holding SA",
+    "stockName": "MANGATA",
+    "ticker": "MGT",
+    "ISIN": "PLZTKMA00017",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Marie Brizard Wine & Spirits S.A.",
+    "stockName": "MBWS",
+    "ticker": "MBW",
+    "ISIN": "FR0000060873",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Marka SA w restrukturyzacji",
+    "stockName": "MARKA",
+    "ticker": "MRK",
+    "ISIN": "PLMARKA00014",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Marvipol Development SA",
+    "stockName": "MARVIPOL",
+    "ticker": "MVP",
+    "ISIN": "PLMRVDV00011",
+    "industry": "Nieruchomości",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Massmedica SA",
+    "stockName": "MSM",
+    "ticker": "MSM",
+    "ISIN": "PLMSMDC00018",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Master Pharm SA",
+    "stockName": "MASTERPHA",
+    "ticker": "MPH",
+    "ISIN": "PLMSTPH00016",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Matrx Pharmaceuticals SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLIBZIC00013",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Maxcom SA",
+    "stockName": "MAXCOM",
+    "ticker": "MXC",
+    "ISIN": "PLMXCMS00016",
+    "industry": "Wyposażenie domu",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Maximus SA",
+    "stockName": "MAXIMUS",
+    "ticker": "MAX",
+    "ISIN": "PLMAXMS00010",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Maxipizza SA",
+    "stockName": "MAXIPIZZA",
+    "ticker": "MXP",
+    "ISIN": "PLMXPZZ00015",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "mBank SA",
+    "stockName": "MBANK",
+    "ticker": "MBK",
+    "ISIN": "PLBRE0000012",
+    "industry": "Banki",
+    "INFOranking": 3
+  },
+  {
+    "emiter": "MBF Group SA",
+    "stockName": "MBFGROUP",
+    "ticker": "MBF",
+    "ISIN": "PLMBFCR00018",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "MCI Capital ASI SA",
+    "stockName": "MCI",
+    "ticker": "MCI",
+    "ISIN": "PLMCIMG00012",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "MDI Energia SA",
+    "stockName": "MDIENERGIA",
+    "ticker": "MDI",
+    "ISIN": "PLNFI1000012",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "MedApp SA",
+    "stockName": "MEDAPP",
+    "ticker": "MDA",
+    "ISIN": "PLYLWHT00012",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Medard SA",
+    "stockName": "MEDARD",
+    "ticker": "MRD",
+    "ISIN": "PLVENIT00010",
+    "industry": "Pozostały handel i usługi",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Medcamp SA",
+    "stockName": "MEDCAMP",
+    "ticker": "MDP",
+    "ISIN": "PLTCHPR00019",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Mediacap SA",
+    "stockName": "MEDIACAP",
+    "ticker": "MCP",
+    "ISIN": "PLEMLAB00018",
+    "industry": "Media",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Median Polska SA",
+    "stockName": "MEDIANPOL",
+    "ticker": "MDN",
+    "ISIN": "PLMDNPL00013",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Medical Cannabis SA",
+    "stockName": "GENERGY",
+    "ticker": "GNR",
+    "ISIN": "PLDVCOM00018",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Medicalgorithmics SA",
+    "stockName": "MEDICALG",
+    "ticker": "MDG",
+    "ISIN": "PLMDCLG00015",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Medicofarma Biotech SA",
+    "stockName": "MEDICOBIO",
+    "ticker": "MDB",
+    "ISIN": "PLINBOK00010",
+    "industry": "Handel internetowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Medinice SA",
+    "stockName": "MEDINICE",
+    "ticker": "ICE",
+    "ISIN": "PLMDNCE00016",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Mega Sonic SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLMGSNC00019",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Megaron SA",
+    "stockName": "MEGARON",
+    "ticker": "MEG",
+    "ISIN": "PLMGRON00016",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Mennica Polska SA",
+    "stockName": "MENNICA",
+    "ticker": "MNC",
+    "ISIN": "PLMNNCP00011",
+    "industry": "Hutnictwo",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Mennica Skarbowa SA",
+    "stockName": "MENNICASK",
+    "ticker": "MNS",
+    "ISIN": "PLGRMNK00014",
+    "industry": "Handel internetowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Mera SA",
+    "stockName": "MERA",
+    "ticker": "MER",
+    "ISIN": "PLMERA000019",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Mercator Medical SA",
+    "stockName": "MERCATOR",
+    "ticker": "MRC",
+    "ISIN": "PLMRCTR00015",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Mercor SA",
+    "stockName": "MERCOR",
+    "ticker": "MCR",
+    "ISIN": "PLMRCOR00016",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Merit Investments ASI SA",
+    "stockName": "MERIT",
+    "ticker": "MEI",
+    "ISIN": "PLMRTIN00011",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Merlin Group SA",
+    "stockName": "MERLINGRP",
+    "ticker": "MRG",
+    "ISIN": "PLADMSV00013",
+    "industry": "Handel internetowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Mex Polska SA",
+    "stockName": "MEXPOLSKA",
+    "ticker": "MEX",
+    "ISIN": "PLMEXPL00010",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "MFO SA",
+    "stockName": "MFO",
+    "ticker": "MFO",
+    "ISIN": "PLMFO0000013",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Milestone Medical Inc.",
+    "stockName": "MILESTONE",
+    "ticker": "MMD",
+    "ISIN": "USU6005B1045",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Milkiland NV",
+    "stockName": "MILKILAND",
+    "ticker": "MLK",
+    "ISIN": "NL0009508712",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Milkpol SA",
+    "stockName": "MILKPOL",
+    "ticker": "MLP",
+    "ISIN": "PLMLKPL00012",
+    "industry": "Produkcja żywności",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Milton Essex SA",
+    "stockName": "MILTON",
+    "ticker": "MTN",
+    "ISIN": "PLMLTNE00013",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Mineral Midrange SA",
+    "stockName": "MINERAL",
+    "ticker": "MND",
+    "ISIN": "PLMNRLM00010",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Minox SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLMINOX00010",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Miraculum SA",
+    "stockName": "MIRACULUM",
+    "ticker": "MIR",
+    "ISIN": "PLKLSTN00017",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Mirbud SA",
+    "stockName": "MIRBUD",
+    "ticker": "MRB",
+    "ISIN": "PLMRBUD00015",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "ML System SA",
+    "stockName": "MLSYSTEM",
+    "ticker": "MLS",
+    "ISIN": "PLMLSTM00015",
+    "industry": "Energia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "MLP Group SA",
+    "stockName": "MLPGROUP",
+    "ticker": "MLG",
+    "ISIN": "PLMLPGR00017",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "MM Conferences SA",
+    "stockName": "MMCPL",
+    "ticker": "MMC",
+    "ISIN": "PLMMCNF00014",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Mo-Bruk SA",
+    "stockName": "MOBRUK",
+    "ticker": "MBR",
+    "ISIN": "PLMOBRK00013",
+    "industry": "Recykling",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Mode SA",
+    "stockName": "MODE",
+    "ticker": "MOE",
+    "ISIN": "PLMODE000019",
+    "industry": "Nowe technologie",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Modern Commerce SA",
+    "stockName": "MODERNCOM",
+    "ticker": "MCE",
+    "ISIN": "PLAIRMK00017",
+    "industry": "Handel internetowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Module Technologies SA",
+    "stockName": "LSTECHHOM",
+    "ticker": "LSH",
+    "ISIN": "PLLSTHM00015",
+    "industry": "Tworzywa i guma",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "MOJ SA",
+    "stockName": "MOJ",
+    "ticker": "MOJ",
+    "ISIN": "PLMOJ0000015",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "MOL Rt.",
+    "stockName": "MOL",
+    "ticker": "MOL",
+    "ISIN": "HU0000153937",
+    "industry": "Paliwa",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Monnari Trade SA",
+    "stockName": "MONNARI",
+    "ticker": "MON",
+    "ISIN": "PLMNRTR00012",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Moonlit SA",
+    "stockName": "MOONLIT",
+    "ticker": "MLT",
+    "ISIN": "PLMNLIT00014",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Mostostal Płock SA",
+    "stockName": "MOSTALPLC",
+    "ticker": "MSP",
+    "ISIN": "PLMSTPL00018",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Mostostal Warszawa SA",
+    "stockName": "MOSTALWAR",
+    "ticker": "MSW",
+    "ISIN": "PLMSTWS00019",
+    "industry": "Budownictwo",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Mostostal Zabrze SA",
+    "stockName": "MOSTALZAB",
+    "ticker": "MSZ",
+    "ISIN": "PLMSTZB00018",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Motoricus SA",
+    "stockName": "MOTORICUS",
+    "ticker": "MTR",
+    "ISIN": "PLOPONX00011",
+    "industry": "Motoryzacja",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Movie Games SA",
+    "stockName": "MOVIEGAMES",
+    "ticker": "MOV",
+    "ISIN": "PLMVGMS00011",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "mPay SA",
+    "stockName": "MPAY",
+    "ticker": "MPY",
+    "ISIN": "PLMPAY000017",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "MPL Verbum SA",
+    "stockName": "MPLVERBUM",
+    "ticker": "VER",
+    "ISIN": "PLMPLVR00016",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "M-Trans SA",
+    "stockName": "MTRANS",
+    "ticker": "MTS",
+    "ISIN": "PLMTRNS00010",
+    "industry": "Transport",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Muza SA",
+    "stockName": "MUZA",
+    "ticker": "MZA",
+    "ISIN": "PLMUZA000019",
+    "industry": "Media",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "MVA Green Energy SA",
+    "stockName": "GREENENER",
+    "ticker": "GRE",
+    "ISIN": "PLDBBGR00017",
+    "industry": "Energia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "NanoGroup SA",
+    "stockName": "NANOGROUP",
+    "ticker": "NNG",
+    "ISIN": "PLNNGRP00011",
+    "industry": "Biotechnologia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Neptis SA",
+    "stockName": "NEPTIS",
+    "ticker": "YAN",
+    "ISIN": "PLNEPTS00011",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Nestmedic SA",
+    "stockName": "NESTMEDIC",
+    "ticker": "NST",
+    "ISIN": "PLNSTMD00010",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Netia SA",
+    "stockName": "NETIA",
+    "ticker": "NET",
+    "ISIN": "PLNETIA00014",
+    "industry": "Telekomunikacja",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Netwise SA",
+    "stockName": "NETWISE",
+    "ticker": "NTW",
+    "ISIN": "PLNETWS00017",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Neuca SA",
+    "stockName": "NEUCA",
+    "ticker": "NEU",
+    "ISIN": "PLTRFRM00018",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Neurone Studio SA",
+    "stockName": "NEURONE",
+    "ticker": "NRS",
+    "ISIN": "PLHCKLG00010",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "New Tech Venture SA",
+    "stockName": "UNITED",
+    "ticker": "UTD",
+    "ISIN": "PLSTCKI00016",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Newag SA",
+    "stockName": "NEWAG",
+    "ticker": "NWG",
+    "ISIN": "PLNEWAG00012",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Nexity Global SA",
+    "stockName": "NEXITY",
+    "ticker": "NXG",
+    "ISIN": "PLWDMCP00013",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Nextbike Polska SA w restrukturyzacji",
+    "stockName": "NEXTBIKE",
+    "ticker": "NXB",
+    "ISIN": "PLNXTBK00018",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": null
+  },
+  {
+    "emiter": "No Gravity Games SA",
+    "stockName": "NGGAMES",
+    "ticker": "NGG",
+    "ISIN": "PLSITE000013",
+    "industry": "Gry video",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Noble Financials SA",
+    "stockName": "IBSM",
+    "ticker": "IBS",
+    "ISIN": "PLPLPGR00010",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Notoria Serwis SA",
+    "stockName": "NOTORIA",
+    "ticker": "NTS",
+    "ISIN": "PLNTRSW00019",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Novaturas AB",
+    "stockName": "NOVATURAS",
+    "ticker": "NTU",
+    "ISIN": "LT0000131872",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Novavis Group SA",
+    "stockName": "NOVAVISGR",
+    "ticker": "NVG",
+    "ISIN": "PLNFI0500012",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Novavis SA",
+    "stockName": "NOVAVIS",
+    "ticker": "NVV",
+    "ISIN": "PLNVVIS00016",
+    "industry": "Energia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Novina SA",
+    "stockName": "NOVINA",
+    "ticker": "NOV",
+    "ISIN": "PLBABY000016",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Novita SA",
+    "stockName": "NOVITA",
+    "ticker": "NVT",
+    "ISIN": "PLNVITA00018",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Nowoczesna Firma SA",
+    "stockName": "NFPL",
+    "ticker": "NFP",
+    "ISIN": "PLNWCFR00012",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "NTT System SA",
+    "stockName": "NTTSYSTEM",
+    "ticker": "NTT",
+    "ISIN": "PLNTSYS00013",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "NWAI Dom Maklerski SA",
+    "stockName": "NWAI",
+    "ticker": "NWA",
+    "ISIN": "PLNWAI000017",
+    "industry": "Rynek kapitałowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Octava SA",
+    "stockName": "08OCTAVA",
+    "ticker": "08N",
+    "ISIN": "PLNFI0800016",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Odlewnie Polskie SA",
+    "stockName": "ODLEWNIE",
+    "ticker": "ODL",
+    "ISIN": "PLODLPL00013",
+    "industry": "Hutnictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "OEX SA",
+    "stockName": "OEX",
+    "ticker": "OEX",
+    "ISIN": "PLTELL000023",
+    "industry": "Pozostały handel i usługi",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "OncoArendi Therapeutics SA",
+    "stockName": "OAT",
+    "ticker": "OAT",
+    "ISIN": "PLONCTH00011",
+    "industry": "Biotechnologia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "One More Level SA",
+    "stockName": "ONEMORE",
+    "ticker": "OML",
+    "ISIN": "PLLSRMD00018",
+    "industry": "Gry video",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "ONE SA",
+    "stockName": "FMG",
+    "ticker": "FMG",
+    "ISIN": "PLTHP0000011",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Onico SA w restrukturyzacji",
+    "stockName": "ONICO",
+    "ticker": "ONC",
+    "ISIN": "PLONCTR00028",
+    "industry": "Paliwa",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Open Finance SA",
+    "stockName": "OPENFIN",
+    "ticker": "OPF",
+    "ISIN": "PLOPNFN00010",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Oponeo.pl SA",
+    "stockName": "OPONEO.PL",
+    "ticker": "OPN",
+    "ISIN": "PLOPNPL00013",
+    "industry": "Handel internetowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "OPTeam SA",
+    "stockName": "OPTEAM",
+    "ticker": "OPM",
+    "ISIN": "PLOPTEM00012",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Optigis SA",
+    "stockName": "IMAGIS",
+    "ticker": "IMG",
+    "ISIN": "PLIMAGS00013",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Optizen Labs SA",
+    "stockName": "OPTIZENLB",
+    "ticker": "OPT",
+    "ISIN": "PLTLCMD00018",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Orange Polska SA",
+    "stockName": "ORANGEPL",
+    "ticker": "OPL",
+    "ISIN": "PLTLKPL00017",
+    "industry": "Telekomunikacja",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Organic Farma Zdrowia SA",
+    "stockName": "ORGANIC",
+    "ticker": "ORG",
+    "ISIN": "PLORGNK00010",
+    "industry": "Sieci handlowe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Orzeł Biały SA",
+    "stockName": "ORZBIALY",
+    "ticker": "OBL",
+    "ISIN": "PLORZBL00013",
+    "industry": "Recykling",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Orzeł SA",
+    "stockName": "ORZLOPONY",
+    "ticker": "ORL",
+    "ISIN": "PLORZL000019",
+    "industry": "Motoryzacja",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "OŚRODEK PROFILAKTYKI I EPIDEMIOLOGII NOWOTWORÓW SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "",
+    "industry": "",
+    "INFOranking": null
+  },
+  {
+    "emiter": "OT Logistics SA",
+    "stockName": "OTLOG",
+    "ticker": "OTS",
+    "ISIN": "PLODRTS00017",
+    "industry": "Transport",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Outdoorzy SA",
+    "stockName": "OUTDOORZY",
+    "ticker": "OUT",
+    "ISIN": "PLOUTDR00013",
+    "industry": "Handel internetowy",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Ovid Works SA",
+    "stockName": "OVIDWORKS",
+    "ticker": "OVI",
+    "ISIN": "PLOVIDW00014",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Ovostar Union NV",
+    "stockName": "OVOSTAR",
+    "ticker": "OVO",
+    "ISIN": "NL0009805613",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Oxygen SA",
+    "stockName": "OXYGEN",
+    "ticker": "OXY",
+    "ISIN": "PLSMOKS00015",
+    "industry": "Pozostały handel i usługi",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "OZE Capital SA",
+    "stockName": "OZECAPITAL",
+    "ticker": "OZE",
+    "ISIN": "PLCSYSA00016",
+    "industry": "Motoryzacja",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "PA Nova SA",
+    "stockName": "PANOVA",
+    "ticker": "NVA",
+    "ISIN": "PLPANVA00013",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Pamapol SA",
+    "stockName": "PAMAPOL",
+    "ticker": "PMP",
+    "ISIN": "PLPMPOL00031",
+    "industry": "Produkcja żywności",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Parcel Technik SA",
+    "stockName": "PARCELTEC",
+    "ticker": "PTE",
+    "ISIN": "PLBMRNG00013",
+    "industry": "Transport",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Partner-Nieruchomości SA",
+    "stockName": "PARTNER",
+    "ticker": "PRN",
+    "ISIN": "PLPRNRH00010",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Passus SA",
+    "stockName": "PASSUS",
+    "ticker": "PAS",
+    "ISIN": "PLPSSUS00018",
+    "industry": "Informatyka",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Patentus SA",
+    "stockName": "PATENTUS",
+    "ticker": "PAT",
+    "ISIN": "PLPTNTS00019",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "PBG SA w restrukturyzacji",
+    "stockName": "PBG",
+    "ticker": "PBG",
+    "ISIN": "PLPBG0000029",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "PBS Finanse SA",
+    "stockName": "PBSFINANSE",
+    "ticker": "PBF",
+    "ISIN": "PLBEFSN00010",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "PC Guard SA",
+    "stockName": "PCGUARD",
+    "ticker": "PCG",
+    "ISIN": "PLGUARD00019",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "PCC Exol SA",
+    "stockName": "PCCEXOL",
+    "ticker": "PCX",
+    "ISIN": "PLPCCEX00010",
+    "industry": "Chemia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "PCC Rokita SA",
+    "stockName": "PCCROKITA",
+    "ticker": "PCR",
+    "ISIN": "PLPCCRK00076",
+    "industry": "Chemia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "PCF Group SA",
+    "stockName": "PCFGROUP",
+    "ticker": "PCF",
+    "ISIN": "PLPCFGR00010",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Peixin International Group NV",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "NL0010577052",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Pekabex SA",
+    "stockName": "PEKABEX",
+    "ticker": "PBX",
+    "ISIN": "PLPKBEX00072",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Pekao Bank Hipoteczny SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "",
+    "industry": "",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Pepco Group BV",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "NL0015000AU7",
+    "industry": "",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Pepees SA",
+    "stockName": "PEPEES",
+    "ticker": "PPS",
+    "ISIN": "PLPEPES00018",
+    "industry": "Produkcja żywności",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Perma-Fix Medical SA",
+    "stockName": "PFMEDICAL",
+    "ticker": "PFM",
+    "ISIN": "PLGURDR00013",
+    "industry": "Biotechnologia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "PGE SA",
+    "stockName": "PGE",
+    "ticker": "PGE",
+    "ISIN": "PLPGER000010",
+    "industry": "Energia",
+    "INFOranking": 3
+  },
+  {
+    "emiter": "PGF Polska Grupa Fotowoltaiczna SA",
+    "stockName": "PGFGROUP",
+    "ticker": "PGV",
+    "ISIN": "PLZSTAL00012",
+    "industry": "Transport",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "PGNiG SA",
+    "stockName": "PGNIG",
+    "ticker": "PGN",
+    "ISIN": "PLPGNIG00014",
+    "industry": "Paliwa",
+    "INFOranking": 3
+  },
+  {
+    "emiter": "PGO SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLPGO0000014",
+    "industry": "Hutnictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "PGS Software SA",
+    "stockName": "PGSSOFT",
+    "ticker": "PSW",
+    "ISIN": "PLSFTWR00015",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Pharmena SA",
+    "stockName": "PHARMENA",
+    "ticker": "PHR",
+    "ISIN": "PLPHRMN00011",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "PHN SA",
+    "stockName": "PHN",
+    "ticker": "PHN",
+    "ISIN": "PLPHN0000014",
+    "industry": "Nieruchomości",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Photon Energy NV",
+    "stockName": "PHOTON",
+    "ticker": "PEN",
+    "ISIN": "NL0010391108",
+    "industry": "Energia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Pixel Crow Games SA",
+    "stockName": "PATFUND",
+    "ticker": "PFD",
+    "ISIN": "PLWKPRK00010",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "PJP Makrum SA",
+    "stockName": "PROJPRZEM",
+    "ticker": "PJP",
+    "ISIN": "PLPROJP00018",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "PKN Orlen SA",
+    "stockName": "PKNORLEN",
+    "ticker": "PKN",
+    "ISIN": "PLPKN0000018",
+    "industry": "Paliwa",
+    "INFOranking": 3
+  },
+  {
+    "emiter": "PKO BANK HIPOTECZNY SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "",
+    "industry": "",
+    "INFOranking": null
+  },
+  {
+    "emiter": "PKO BP SA",
+    "stockName": "PKOBP",
+    "ticker": "PKO",
+    "ISIN": "PLPKO0000016",
+    "industry": "Banki",
+    "INFOranking": 3
+  },
+  {
+    "emiter": "PKP Cargo SA",
+    "stockName": "PKPCARGO",
+    "ticker": "PKP",
+    "ISIN": "PLPKPCR00011",
+    "industry": "Transport",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "PL Group SA",
+    "stockName": "PLGROUP",
+    "ticker": "PLG",
+    "ISIN": "PLRAJDY00015",
+    "industry": "Motoryzacja",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Planet B2B SA",
+    "stockName": "PLANETB2B",
+    "ticker": "P2B",
+    "ISIN": "PLPRKLS00016",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Planet Innovation Group SA",
+    "stockName": "PLANETINN",
+    "ticker": "PIG",
+    "ISIN": "PLPLNTS00016",
+    "industry": "Nowe technologie",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Plantwear SA",
+    "stockName": "PLANTWEAR",
+    "ticker": "PNW",
+    "ISIN": "PLPLNTW00018",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Plasma System SA w restrukturyzacji",
+    "stockName": "PLASMA",
+    "ticker": "PSM",
+    "ISIN": "PLPLSMS00010",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Plast-Box SA",
+    "stockName": "PLASTBOX",
+    "ticker": "PLX",
+    "ISIN": "PLPSTBX00016",
+    "industry": "Tworzywa i guma",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Platige Image SA",
+    "stockName": "PLATIGE",
+    "ticker": "PLI",
+    "ISIN": "PLPTGMG00013",
+    "industry": "Media",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Platynowe Inwestycje SE",
+    "stockName": "PLATYNINW",
+    "ticker": "PIW",
+    "ISIN": "PLADDRG00015",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Play2Chill SA",
+    "stockName": "P2CHILL",
+    "ticker": "P2C",
+    "ISIN": "PLPLCHL00019",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "PlayWay SA",
+    "stockName": "PLAYWAY",
+    "ticker": "PLW",
+    "ISIN": "PLPLAYW00015",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Plaza Centers NV",
+    "stockName": "PLAZACNTR",
+    "ticker": "PLZ",
+    "ISIN": "NL0011882741",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "PMPG Polskie Media SA",
+    "stockName": "PMPG",
+    "ticker": "PGM",
+    "ISIN": "PLPEKPL00010",
+    "industry": "Media",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Pointpack SA",
+    "stockName": "POINTPACK",
+    "ticker": "PNT",
+    "ISIN": "PLPNTPK00014",
+    "industry": "Transport",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Polaris IT Group SA",
+    "stockName": "POLARISIT",
+    "ticker": "PIT",
+    "ISIN": "PLANMD000014",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Polenergia SA",
+    "stockName": "PEP",
+    "ticker": "PEP",
+    "ISIN": "PLPLSEP00013",
+    "industry": "Energia",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Police SA",
+    "stockName": "POLICE",
+    "ticker": "PCE",
+    "ISIN": "PLZCPLC00036",
+    "industry": "Chemia",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Polimex Mostostal SA",
+    "stockName": "POLIMEXMS",
+    "ticker": "PXM",
+    "ISIN": "PLMSTSD00019",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Polman SA",
+    "stockName": "POLMAN",
+    "ticker": "PLM",
+    "ISIN": "PLPOLMN00010",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Polnord SA",
+    "stockName": "POLNORD",
+    "ticker": "PND",
+    "ISIN": "PLPOLND00019",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Polski Bank Komórek Macierzystych SA",
+    "stockName": "PBKM",
+    "ticker": "BKM",
+    "ISIN": "PLPBKM000012",
+    "industry": "Biotechnologia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Poltronic SA",
+    "stockName": "POLTRONIC",
+    "ticker": "PTN",
+    "ISIN": "PLPLTRN00018",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Polwax SA",
+    "stockName": "POLWAX",
+    "ticker": "PWX",
+    "ISIN": "PLPOLWX00026",
+    "industry": "Chemia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Polyslash SA",
+    "stockName": "POLYSLASH",
+    "ticker": "PSH",
+    "ISIN": "PLPOLSL00011",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Pozbud SA",
+    "stockName": "POZBUD",
+    "ticker": "POZ",
+    "ISIN": "PLPZBDT00013",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Pragma Inkaso SA",
+    "stockName": "PRAGMAINK",
+    "ticker": "PRI",
+    "ISIN": "PLPRGNK00017",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "PragmaGO SA",
+    "stockName": "PRAGMAFA",
+    "ticker": "PRF",
+    "ISIN": "PLGFPRE00040",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Prairie Mining Ltd.",
+    "stockName": "PRAIRIE",
+    "ticker": "PDZ",
+    "ISIN": "AU000000PDZ2",
+    "industry": "Górnictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Prefa Group SA",
+    "stockName": "PREFAGRP",
+    "ticker": "PFG",
+    "ISIN": "PL71MDA00018",
+    "industry": "Finanse pozostałe",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Prefabet-Białe Błota SA w restrukturyzacji",
+    "stockName": "PREFABET",
+    "ticker": "PBB",
+    "ISIN": "PLPRFBT00015",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Present24 SA",
+    "stockName": "PRESENT24",
+    "ticker": "P24",
+    "ISIN": "PLPRS2400012",
+    "industry": "Handel internetowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Presto SA w upadłości",
+    "stockName": "PRESTO",
+    "ticker": "PST",
+    "ISIN": "PLPRSTO00011",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Prima Moda SA",
+    "stockName": "PRIMAMODA",
+    "ticker": "PMA",
+    "ISIN": "PLPRMMD00012",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Prima Park SA w restrukturyzacji",
+    "stockName": "KLEBAINV",
+    "ticker": "KIN",
+    "ISIN": "PLWTTMN00075",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Prime Bit Games SA",
+    "stockName": "PBGAMES",
+    "ticker": "PBT",
+    "ISIN": "PLPRMBG00018",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Primetech SA",
+    "stockName": "PRIMETECH",
+    "ticker": "PTH",
+    "ISIN": "PLKOPEX00018",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Private Equity Managers SA",
+    "stockName": "PEMANAGER",
+    "ticker": "PEM",
+    "ISIN": "PLPREQM00011",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Procad SA",
+    "stockName": "PROCAD",
+    "ticker": "PRD",
+    "ISIN": "PLPRCAD00018",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Prochem SA",
+    "stockName": "PROCHEM",
+    "ticker": "PRM",
+    "ISIN": "PLPRCHM00014",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Property Lease Fund SA",
+    "stockName": "PROPERTYF",
+    "ticker": "PLE",
+    "ISIN": "PLLSGEX00016",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Protektor SA",
+    "stockName": "PROTEKTOR",
+    "ticker": "PRT",
+    "ISIN": "PLLZPSK00019",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Prymus SA",
+    "stockName": "PRYMUS",
+    "ticker": "PRS",
+    "ISIN": "PLPRMUS00013",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "PTWP SA",
+    "stockName": "PTWP",
+    "ticker": "PTW",
+    "ISIN": "PLPTWP000015",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Puławy SA",
+    "stockName": "PULAWY",
+    "ticker": "ZAP",
+    "ISIN": "PLZAPUL00057",
+    "industry": "Chemia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "PunkPirates SA",
+    "stockName": "PUNKPIRAT",
+    "ticker": "PUN",
+    "ISIN": "PLIQPRT00017",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Pure Biologics SA",
+    "stockName": "PURE",
+    "ticker": "PUR",
+    "ISIN": "PLPRBLG00010",
+    "industry": "Biotechnologia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Pylon SA",
+    "stockName": "PYLON",
+    "ticker": "PYL",
+    "ISIN": "PLPYLON00015",
+    "industry": "Wyposażenie domu",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Pyramid Games SA",
+    "stockName": "PYRAMID",
+    "ticker": "PDG",
+    "ISIN": "PLPRMGM00015",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "PZ Cormay SA",
+    "stockName": "CORMAY",
+    "ticker": "CRM",
+    "ISIN": "PLCMRAY00029",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "PZU SA",
+    "stockName": "PZU",
+    "ticker": "PZU",
+    "ISIN": "PLPZU0000011",
+    "industry": "Ubezpieczenia",
+    "INFOranking": 3
+  },
+  {
+    "emiter": "Quantum Software SA",
+    "stockName": "QUANTUM",
+    "ticker": "QNT",
+    "ISIN": "PLQNTUM00018",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Quart Development SA",
+    "stockName": "QUART",
+    "ticker": "QRT",
+    "ISIN": "PLQRTDV00016",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "QuarticOn SA",
+    "stockName": "QUARTICON",
+    "ticker": "QON",
+    "ISIN": "PLQRTCN00015",
+    "industry": "Informatyka",
+    "INFOranking": null
+  },
+  {
+    "emiter": "QubicGames SA",
+    "stockName": "QUBICGMS",
+    "ticker": "QUB",
+    "ISIN": "PLQBCGM00018",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Quercus TFI SA",
+    "stockName": "QUERCUS",
+    "ticker": "QRS",
+    "ISIN": "PLQRCUS00012",
+    "industry": "Rynek kapitałowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "R22 SA",
+    "stockName": "R22",
+    "ticker": "R22",
+    "ISIN": "PLR220000018",
+    "industry": "Nowe technologie",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Radpol SA",
+    "stockName": "RADPOL",
+    "ticker": "RDL",
+    "ISIN": "PLRDPOL00010",
+    "industry": "Tworzywa i guma",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Rafako SA w restrukturyzacji",
+    "stockName": "RAFAKO",
+    "ticker": "RFK",
+    "ISIN": "PLRAFAK00018",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Rafamet SA",
+    "stockName": "RAFAMET",
+    "ticker": "RAF",
+    "ISIN": "PLRFMET00016",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "RAIFFEISEN BANK POLSKA SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "",
+    "industry": "",
+    "INFOranking": null
+  },
+  {
+    "emiter": "RAIFFEISEN CENTROBANK AG",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "",
+    "industry": "",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Rainbow Tours SA",
+    "stockName": "RAINBOW",
+    "ticker": "RBW",
+    "ISIN": "PLRNBWT00031",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Rank Progress SA",
+    "stockName": "RANKPROGR",
+    "ticker": "RNK",
+    "ISIN": "PLRNKPR00014",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Rawlplug SA",
+    "stockName": "RAWLPLUG",
+    "ticker": "RWL",
+    "ISIN": "PLKLNR000017",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Read-Gene SA",
+    "stockName": "READGENE",
+    "ticker": "RDG",
+    "ISIN": "PLRADGN00014",
+    "industry": "Biotechnologia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "ReChain SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLRVTUM00019",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Red Dev Studio SA",
+    "stockName": "REDDEV",
+    "ticker": "RDS",
+    "ISIN": "PLRDDVS00016",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Redan SA",
+    "stockName": "REDAN",
+    "ticker": "RDN",
+    "ISIN": "PLREDAN00019",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Regnon SA w likwidacji",
+    "stockName": "REGNON",
+    "ticker": "REG",
+    "ISIN": "PLPRNTC00017",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Reinhold Europe AB",
+    "stockName": "REINHOLD",
+    "ticker": "RHD",
+    "ISIN": "SE0001856519",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Reino Capital SA",
+    "stockName": "REINO",
+    "ticker": "RNC",
+    "ISIN": "PLWDM0000029",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Relpol SA",
+    "stockName": "RELPOL",
+    "ticker": "RLP",
+    "ISIN": "PLRELPL00014",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Remak-Energomontaż SA",
+    "stockName": "REMAK",
+    "ticker": "RMK",
+    "ISIN": "PLREMAK00016",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Remedis SA w restrukturyzacji",
+    "stockName": "REMEDIS",
+    "ticker": "REM",
+    "ISIN": "PLREMDS00021",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Remor Solar Polska SA",
+    "stockName": "REMORSOL",
+    "ticker": "RSP",
+    "ISIN": "PLAGRTR00011",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Resbud SE",
+    "stockName": "RESBUD",
+    "ticker": "RES",
+    "ISIN": "EE3100142985",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Robinson Europe SA",
+    "stockName": "ROBINSON",
+    "ticker": "RBS",
+    "ISIN": "PLRBSNE00015",
+    "industry": "Inne dobra konsumpcyjne",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Rocca SA",
+    "stockName": "ROCCA",
+    "ticker": "RCA",
+    "ISIN": "PLROCCA00013",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Ronson Development SE",
+    "stockName": "RONSON",
+    "ticker": "RON",
+    "ISIN": "NL0006106007",
+    "industry": "Nieruchomości",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Rovita SA",
+    "stockName": "ROVITA",
+    "ticker": "ROV",
+    "ISIN": "PLRVITA00019",
+    "industry": "Handel hurtowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Ruch Chorzów SA",
+    "stockName": "RUCHCHORZ",
+    "ticker": "RCW",
+    "ISIN": "PLRCHZW00012",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Ryvu Therapeutics SA",
+    "stockName": "RYVU",
+    "ticker": "RVU",
+    "ISIN": "PLSELVT00013",
+    "industry": "Biotechnologia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "S4E SA",
+    "stockName": "S4E",
+    "ticker": "S4E",
+    "ISIN": "PLS4E0000015",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Sadovaya Group SA",
+    "stockName": "SADOVAYA",
+    "ticker": "SGR",
+    "ISIN": "LU0564351582",
+    "industry": "Górnictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Sakana SA",
+    "stockName": "SAKANA",
+    "ticker": "SKN",
+    "ISIN": "PLSAKAN00010",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Sanok Rubber Company SA",
+    "stockName": "SANOK",
+    "ticker": "SNK",
+    "ISIN": "PLSTLSK00016",
+    "industry": "Motoryzacja",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Santander Bank Polska SA",
+    "stockName": "SANPL",
+    "ticker": "SPL",
+    "ISIN": "PLBZ00000044",
+    "industry": "Banki",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Sanwil SA",
+    "stockName": "SANWIL",
+    "ticker": "SNW",
+    "ISIN": "PLSANWL00012",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Satis Group SA w restrukturyzacji",
+    "stockName": "SATIS",
+    "ticker": "STS",
+    "ISIN": "PLADVPL00029",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Scope Fluidics SA",
+    "stockName": "SCPFL",
+    "ticker": "SCP",
+    "ISIN": "PLSCPFL00018",
+    "industry": "Biotechnologia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Seco/Warwick SA",
+    "stockName": "SECOGROUP",
+    "ticker": "SWG",
+    "ISIN": "PLWRWCK00013",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Seko SA",
+    "stockName": "SEKO",
+    "ticker": "SEK",
+    "ISIN": "PLSEKO000014",
+    "industry": "Produkcja żywności",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Selena FM SA",
+    "stockName": "SELENAFM",
+    "ticker": "SEL",
+    "ISIN": "PLSELNA00010",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Selvita SA",
+    "stockName": "SELVITA",
+    "ticker": "SLV",
+    "ISIN": "PLSLVCR00029",
+    "industry": "Biotechnologia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Serinus Energy plc",
+    "stockName": "SERINUS",
+    "ticker": "SEN",
+    "ISIN": "JE00BF4N9R98",
+    "industry": "Paliwa",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Sescom SA",
+    "stockName": "SESCOM",
+    "ticker": "SES",
+    "ISIN": "PLSESCM00013",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Sevenet SA",
+    "stockName": "SEVENET",
+    "ticker": "SEV",
+    "ISIN": "PLSVNET00019",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "SFD SA",
+    "stockName": "SFD",
+    "ticker": "SFD",
+    "ISIN": "PLSFD0000013",
+    "industry": "Handel internetowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "SferaNet SA",
+    "stockName": "SFERANET",
+    "ticker": "SFN",
+    "ISIN": "PLSFRNT00014",
+    "industry": "Telekomunikacja",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Sfinks Polska SA",
+    "stockName": "SFINKS",
+    "ticker": "SFS",
+    "ISIN": "PLSFNKS00011",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "ShockWork Games SA",
+    "stockName": "SHOCKWORK",
+    "ticker": "SWK",
+    "ISIN": "PLVNTCP00019",
+    "industry": "Gry video",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Silvair Inc.",
+    "stockName": "SILVAIR-REGS",
+    "ticker": "SVRS",
+    "ISIN": "USU827061099",
+    "industry": "Informatyka",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Silvano Group AS",
+    "stockName": "SILVANO",
+    "ticker": "SFG",
+    "ISIN": "EE3100001751",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "SimFabric SA",
+    "stockName": "SIMFABRIC",
+    "ticker": "SIM",
+    "ISIN": "PLSMFBC00016",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Simple SA",
+    "stockName": "SIMPLE",
+    "ticker": "SME",
+    "ISIN": "PLSIMPL00011",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Simteract SA",
+    "stockName": "SIMTERACT",
+    "ticker": "SMT",
+    "ISIN": "PLSMTRC00013",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Skarbiec Holding SA",
+    "stockName": "SKARBIEC",
+    "ticker": "SKH",
+    "ISIN": "PLSKRBH00014",
+    "industry": "Rynek kapitałowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Skinwallet SA",
+    "stockName": "SWALLET",
+    "ticker": "SWT",
+    "ISIN": "PLSKNWL00011",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Skoczowska Fabryka Kapeluszy Polkap SA w restrukturyzacji",
+    "stockName": "SFKPOLKAP",
+    "ticker": "SFK",
+    "ISIN": "PLSFKPL00011",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Skotan SA",
+    "stockName": "SKOTAN",
+    "ticker": "SKT",
+    "ISIN": "PLSKTAN00010",
+    "industry": "Paliwa",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Skyline Investment SA",
+    "stockName": "SKYLINE",
+    "ticker": "SKL",
+    "ISIN": "PLSKLNW00011",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Sleepz AG",
+    "stockName": "SLEEPZAG",
+    "ticker": "SLZ",
+    "ISIN": "DE000A2E3772",
+    "industry": "Handel internetowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "SMS Kredyt Holding SA",
+    "stockName": "SMSKREDYT",
+    "ticker": "SMS",
+    "ISIN": "PLSMSKH00019",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Softblue SA",
+    "stockName": "SOFTBLUE",
+    "ticker": "SBE",
+    "ISIN": "PLSFTBL00012",
+    "industry": "Nowe technologie",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Soho Development SA",
+    "stockName": "SOHODEV",
+    "ticker": "SHD",
+    "ISIN": "PLNFI0400015",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Solar Company SA",
+    "stockName": "SOLAR",
+    "ticker": "SOL",
+    "ISIN": "PLSLRCP00021",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Solar Innovation SA",
+    "stockName": "SOLARINOV",
+    "ticker": "SIN",
+    "ISIN": "PLTABLO00012",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Sonel SA",
+    "stockName": "SONEL",
+    "ticker": "SON",
+    "ISIN": "PLSONEL00011",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Sonka SA",
+    "stockName": "SONKA",
+    "ticker": "SOK",
+    "ISIN": "PLSNK0000012",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Sopharma AD",
+    "stockName": "SOPHARMA",
+    "ticker": "SPH",
+    "ISIN": "BG11SOSOBT18",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Spark VC SA",
+    "stockName": "SPARKVC",
+    "ticker": "SPK",
+    "ISIN": "PLRKLMF00010",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "SpyroSoft SA",
+    "stockName": "SPYROSOFT",
+    "ticker": "SPR",
+    "ISIN": "PLSPRSF00011",
+    "industry": "Informatyka",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Stalexport Autostrady SA",
+    "stockName": "STALEXP",
+    "ticker": "STX",
+    "ISIN": "PLSTLEX00019",
+    "industry": "Transport",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Stalprodukt SA",
+    "stockName": "STALPROD",
+    "ticker": "STP",
+    "ISIN": "PLSTLPD00017",
+    "industry": "Hutnictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Stalprofil SA",
+    "stockName": "STALPROFI",
+    "ticker": "STF",
+    "ISIN": "PLSTLPF00012",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Standrew SA",
+    "stockName": "STANDREW",
+    "ticker": "STD",
+    "ISIN": "PLSTNDR00019",
+    "industry": "Drewno i papier",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Starhedge SA",
+    "stockName": "STARHEDGE",
+    "ticker": "SHG",
+    "ISIN": "PLHRDEX00021",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Starward Industries SA",
+    "stockName": "STARWARD",
+    "ticker": "STA",
+    "ISIN": "PLSTRWI00019",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Stem Cells Spin SA",
+    "stockName": "STEMCELLS",
+    "ticker": "SCS",
+    "ISIN": "PLSTCLS00013",
+    "industry": "Biotechnologia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Stilo Energy SA",
+    "stockName": "STILO",
+    "ticker": "STI",
+    "ISIN": "PLSTLNR00012",
+    "industry": "Energia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Summa Linguae Technologies SA",
+    "stockName": "SUMMALING",
+    "ticker": "SUL",
+    "ISIN": "PLSMLNG00010",
+    "industry": "Pozostały handel i usługi",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Sundragon SA",
+    "stockName": "SUNDRAGON",
+    "ticker": "SDG",
+    "ISIN": "PLRSYSA00014",
+    "industry": "Motoryzacja",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Sunex SA",
+    "stockName": "SUNEX",
+    "ticker": "SNX",
+    "ISIN": "PLSUNEX00013",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Suntech SA",
+    "stockName": "SUNTECH",
+    "ticker": "SUN",
+    "ISIN": "PLSNTCH00012",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Surfland SA",
+    "stockName": "SURFLAND",
+    "ticker": "SSK",
+    "ISIN": "PLSFLND00011",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Suwary SA",
+    "stockName": "SUWARY",
+    "ticker": "SUW",
+    "ISIN": "PLSUWAR00014",
+    "industry": "Tworzywa i guma",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Swissmed Centrum Zdrowia SA",
+    "stockName": "SWISSMED",
+    "ticker": "SWD",
+    "ISIN": "PLSWMED00013",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Sygnity SA",
+    "stockName": "SYGNITY",
+    "ticker": "SGN",
+    "ISIN": "PLCMPLD00016",
+    "industry": "Informatyka",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Symbio Polska SA",
+    "stockName": "SYMBIO",
+    "ticker": "SYM",
+    "ISIN": "PLSMBI000013",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Synektik SA",
+    "stockName": "SYNEKTIK",
+    "ticker": "SNT",
+    "ISIN": "PLSNKTK00019",
+    "industry": "Biotechnologia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "SYNERGA.fund SA",
+    "stockName": "SYNERGA",
+    "ticker": "SNG",
+    "ISIN": "PLMWTNS00010",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Szar SA",
+    "stockName": "SZAR",
+    "ticker": "SZR",
+    "ISIN": "PLSZAR000018",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Śnieżka SA",
+    "stockName": "SNIEZKA",
+    "ticker": "SKA",
+    "ISIN": "PLSNZKA00033",
+    "industry": "Budownictwo",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Talanx AG",
+    "stockName": "TALANX",
+    "ticker": "TNX",
+    "ISIN": "DE000TLX1005",
+    "industry": "Ubezpieczenia",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Talex SA",
+    "stockName": "TALEX",
+    "ticker": "TLX",
+    "ISIN": "PLTALEX00017",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Tamex SA",
+    "stockName": "TAMEX",
+    "ticker": "TOS",
+    "ISIN": "PLTAMEX00015",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Tarczyński SA",
+    "stockName": "TARCZYNSKI",
+    "ticker": "TAR",
+    "ISIN": "PLTRCZN00016",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Tatry Mountain Resorts a.s.",
+    "stockName": "TATRY",
+    "ticker": "TMR",
+    "ISIN": "SK1120010287",
+    "industry": "Rekreacja i wypoczynek",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Tauron Polska Energia SA",
+    "stockName": "TAURONPE",
+    "ticker": "TPE",
+    "ISIN": "PLTAURN00011",
+    "industry": "Energia",
+    "INFOranking": 3
+  },
+  {
+    "emiter": "Tax-Net SA",
+    "stockName": "TAXNET",
+    "ticker": "TXN",
+    "ISIN": "PLTAXNT00011",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Taxus Fund SA",
+    "stockName": "TAXUSFUND",
+    "ticker": "TXF",
+    "ISIN": "PLTXSFN00012",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "T-Bull SA",
+    "stockName": "TBULL",
+    "ticker": "TBL",
+    "ISIN": "PLTBULL00024",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Telemedycyna Polska SA",
+    "stockName": "TELEMEDPL",
+    "ticker": "TMP",
+    "ISIN": "PLTLMDC00018",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Telesto SA",
+    "stockName": "TELESTO",
+    "ticker": "TLO",
+    "ISIN": "PLTELST00017",
+    "industry": "Recykling",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Telestrada SA",
+    "stockName": "TELESTR",
+    "ticker": "TLS",
+    "ISIN": "PLTLSTD00019",
+    "industry": "Telekomunikacja",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Telgam SA",
+    "stockName": "TELGAM",
+    "ticker": "TLG",
+    "ISIN": "PLPTLTG00018",
+    "industry": "Telekomunikacja",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Teliani Valley Polska SA",
+    "stockName": "TELIANI",
+    "ticker": "TLV",
+    "ISIN": "PLTLVPL00014",
+    "industry": "Produkcja żywności",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Ten Square Games SA",
+    "stockName": "TSGAMES",
+    "ticker": "TEN",
+    "ISIN": "PLTSQGM00016",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "TenderHut SA",
+    "stockName": "TENDERHUT",
+    "ticker": "THG",
+    "ISIN": "PLTNDRH00012",
+    "industry": "Nowe technologie",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Termo2Power SA",
+    "stockName": "TERMO2PWR",
+    "ticker": "T2P",
+    "ISIN": "PLTRMPR00017",
+    "industry": "Energia",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Termoexpert SA",
+    "stockName": "TERMOEXP",
+    "ticker": "TME",
+    "ISIN": "PLTRMEX00019",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Termo-Rex SA",
+    "stockName": "TERMOREX",
+    "ticker": "TRR",
+    "ISIN": "PLTRMRX00011",
+    "industry": "Paliwa",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Tesgas SA",
+    "stockName": "TESGAS",
+    "ticker": "TSG",
+    "ISIN": "PLTSGS000019",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "The Dust SA",
+    "stockName": "THEDUST",
+    "ticker": "THD",
+    "ISIN": "PLTHDST00017",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "The Farm 51 Group SA",
+    "stockName": "FARM51",
+    "ticker": "F51",
+    "ISIN": "PLFRMGR00015",
+    "industry": "Gry video",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "TIM SA",
+    "stockName": "TIM",
+    "ticker": "TIM",
+    "ISIN": "PLTIM0000016",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "TopLevelTennis.com SA",
+    "stockName": "TLTENNIS",
+    "ticker": "TLT",
+    "ISIN": "PLCMPRS00011",
+    "industry": "Media",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Torpol SA",
+    "stockName": "TORPOL",
+    "ticker": "TOR",
+    "ISIN": "PLTORPL00016",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Tower Investments SA",
+    "stockName": "TOWERINVT",
+    "ticker": "TOW",
+    "ISIN": "PLTWRNV00013",
+    "industry": "Nieruchomości",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Toya SA",
+    "stockName": "TOYA",
+    "ticker": "TOA",
+    "ISIN": "PLTOYA000011",
+    "industry": "Handel hurtowy",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "Trakcja SA",
+    "stockName": "TRAKCJA",
+    "ticker": "TRK",
+    "ISIN": "PLTRKPL00014",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Trans Polonia SA",
+    "stockName": "TRANSPOL",
+    "ticker": "TRN",
+    "ISIN": "PLTRNSP00013",
+    "industry": "Transport",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Triton Development SA",
+    "stockName": "TRITON",
+    "ticker": "TRI",
+    "ISIN": "PLASMOT00030",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "True Games Syndicate SA",
+    "stockName": "TRUEGS",
+    "ticker": "TGS",
+    "ISIN": "PLKKHRB00011",
+    "industry": "Sieci handlowe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "TXM SA",
+    "stockName": "TXM",
+    "ticker": "TXM",
+    "ISIN": "PLTXM0000015",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": null
+  },
+  {
+    "emiter": "UHY ECA SA",
+    "stockName": "UHYECA",
+    "ticker": "ECA",
+    "ISIN": "PLAUXLM00026",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Ulma Construccion Polska SA",
+    "stockName": "ULMA",
+    "ticker": "ULM",
+    "ISIN": "PLBAUMA00017",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Ultimate Games SA",
+    "stockName": "ULTGAMES",
+    "ticker": "ULG",
+    "ISIN": "PLULTGM00013",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Unibep SA",
+    "stockName": "UNIBEP",
+    "ticker": "UNI",
+    "ISIN": "PLUNBEP00015",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "UniCredit SpA",
+    "stockName": "UNICREDIT",
+    "ticker": "UCG",
+    "ISIN": "IT0005239360",
+    "industry": "Banki",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Unified Factory SA",
+    "stockName": "UNIFIED",
+    "ticker": "UFC",
+    "ISIN": "PLDTBRK00037",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Unima 2000 SA",
+    "stockName": "UNIMA",
+    "ticker": "U2K",
+    "ISIN": "PLUNMST00014",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Unimot SA",
+    "stockName": "UNIMOT",
+    "ticker": "UNT",
+    "ISIN": "PLUNMOT00013",
+    "industry": "Paliwa",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "United Label SA",
+    "stockName": "UNILABGAM",
+    "ticker": "UNL",
+    "ISIN": "PLUNTDL00018",
+    "industry": "Gry video",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Ursus SA w restrukturyzacji",
+    "stockName": "URSUS",
+    "ticker": "URS",
+    "ISIN": "PLPMWRM00012",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Vabun SA",
+    "stockName": "VABUN",
+    "ticker": "VAB",
+    "ISIN": "PLVBN0000015",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Vakomtek SA",
+    "stockName": "VAKOMTEK",
+    "ticker": "VKT",
+    "ISIN": "PLVKMTK00015",
+    "industry": "Handel hurtowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Varsav Game Studios SA",
+    "stockName": "VARSAV",
+    "ticker": "VAR",
+    "ISIN": "PLYORIM00019",
+    "industry": "Gry video",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Vee SA",
+    "stockName": "VEE",
+    "ticker": "VEE",
+    "ISIN": "PLVCTCM00019",
+    "industry": "Telekomunikacja",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Venture INC ASI SA",
+    "stockName": "VENTUREIN",
+    "ticker": "VTI",
+    "ISIN": "PLVNTIN00011",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Verbicom SA",
+    "stockName": "VERBICOM",
+    "ticker": "VRB",
+    "ISIN": "PLVRBCM00015",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Vercom SA",
+    "stockName": "VERCOM",
+    "ticker": "VRC",
+    "ISIN": "PLVRCM000016",
+    "industry": "Informatyka",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Viatron SA",
+    "stockName": "VIATRON",
+    "ticker": "VIA",
+    "ISIN": "PLVTRON00010",
+    "industry": "Budownictwo",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Vidis SA",
+    "stockName": "VIDIS",
+    "ticker": "VDS",
+    "ISIN": "PLVIDIS00014",
+    "industry": "Zaopatrzenie przedsiębiorstw",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Vigo System SA",
+    "stockName": "VIGOSYS",
+    "ticker": "VGO",
+    "ISIN": "PLVIGOS00015",
+    "industry": "Nowe technologie",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Vistal Gdynia SA",
+    "stockName": "VISTAL",
+    "ticker": "VTL",
+    "ISIN": "PLVTLGD00010",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Vivid Games SA",
+    "stockName": "VIVID",
+    "ticker": "VVD",
+    "ISIN": "PLVVDGM00014",
+    "industry": "Gry video",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Votum SA",
+    "stockName": "VOTUM",
+    "ticker": "VOT",
+    "ISIN": "PLVOTUM00016",
+    "industry": "Ubezpieczenia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Voxel SA",
+    "stockName": "VOXEL",
+    "ticker": "VOX",
+    "ISIN": "PLVOXEL00014",
+    "industry": "Ochrona zdrowia",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "VRG SA",
+    "stockName": "VRG",
+    "ticker": "VRG",
+    "ISIN": "PLVSTLA00011",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Warimpex AG",
+    "stockName": "WARIMPEX",
+    "ticker": "WXF",
+    "ISIN": "AT0000827209",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Wasko SA",
+    "stockName": "WASKO",
+    "ticker": "WAS",
+    "ISIN": "PLHOGA000041",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Wawel SA",
+    "stockName": "WAWEL",
+    "ticker": "WWL",
+    "ISIN": "PLWAWEL00013",
+    "industry": "Produkcja żywności",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Wealth Bay SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLWLTHB00010",
+    "industry": "Drewno i papier",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Werth-Holz SA",
+    "stockName": "WERTHHOLZ",
+    "ticker": "WHH",
+    "ISIN": "PLWRTHL00016",
+    "industry": "Wyposażenie domu",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "West Real Estate SA",
+    "stockName": "WESTREAL",
+    "ticker": "WRE",
+    "ISIN": "PLWREST00018",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Wielton SA",
+    "stockName": "WIELTON",
+    "ticker": "WLT",
+    "ISIN": "PLWELTN00012",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Wierzyciel SA",
+    "stockName": "WIERZYCL",
+    "ticker": "WRL",
+    "ISIN": "PLWRZCL00014",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Wikana SA",
+    "stockName": "WIKANA",
+    "ticker": "WIK",
+    "ISIN": "PLELPO000016",
+    "industry": "Nieruchomości",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Wirtualna Polska Holding SA",
+    "stockName": "WIRTUALNA",
+    "ticker": "WPL",
+    "ISIN": "PLWRTPL00027",
+    "industry": "Media",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Wittchen SA",
+    "stockName": "WITTCHEN",
+    "ticker": "WTN",
+    "ISIN": "PLWTCHN00030",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Wodkan SA",
+    "stockName": "WODKAN",
+    "ticker": "WOD",
+    "ISIN": "PLWDKAN00016",
+    "industry": "Dystrybucja ciepła i wody",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Wojas SA",
+    "stockName": "WOJAS",
+    "ticker": "WOJ",
+    "ISIN": "PLWOJAS00014",
+    "industry": "Odzież i kosmetyki",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Wolfs Development SA",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLGRPHC00016",
+    "industry": "Nieruchomości",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Work Service SA",
+    "stockName": "WORKSERV",
+    "ticker": "WSE",
+    "ISIN": "PLWRKSR00019",
+    "industry": "Usługi dla przedsiębiorstw",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "XBS Pro-Log SA",
+    "stockName": "XBSPROLOG",
+    "ticker": "XBS",
+    "ISIN": "PLPROLG00013",
+    "industry": "Transport",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "XPlus SA",
+    "stockName": "XPLUS",
+    "ticker": "XPL",
+    "ISIN": "PLXPLUS00013",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "XTB DM SA",
+    "stockName": "XTB",
+    "ticker": "XTB",
+    "ISIN": "PLXTRDM00011",
+    "industry": "Rynek kapitałowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "XTPL SA",
+    "stockName": "XTPL",
+    "ticker": "XTP",
+    "ISIN": "PLXTPL000018",
+    "industry": "Nowe technologie",
+    "INFOranking": null
+  },
+  {
+    "emiter": "Yolo SA",
+    "stockName": "YOLO",
+    "ticker": "YOL",
+    "ISIN": "PLPRESC00018",
+    "industry": "Finanse pozostałe",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Yoshi Innovation SA",
+    "stockName": "YOSHI",
+    "ticker": "YOS",
+    "ISIN": "PLACREO00019",
+    "industry": "Informatyka",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "Zamet SA",
+    "stockName": "ZAMET",
+    "ticker": "ZMT",
+    "ISIN": "PLZAMET00010",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 0
+  },
+  {
+    "emiter": "ZE PAK SA",
+    "stockName": "ZEPAK",
+    "ticker": "ZEP",
+    "ISIN": "PLZEPAK00012",
+    "industry": "Energia",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "ZM Henryk Kania SA w upadłości",
+    "stockName": "",
+    "ticker": "",
+    "ISIN": "PLIZNS000022",
+    "industry": "Produkcja żywności",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "ZM Ropczyce SA",
+    "stockName": "ROPCZYCE",
+    "ticker": "RPC",
+    "ISIN": "PLROPCE00017",
+    "industry": "Budownictwo",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "ZPC Otmuchów SA",
+    "stockName": "OTMUCHOW",
+    "ticker": "OTM",
+    "ISIN": "PLZPCOT00018",
+    "industry": "Produkcja żywności",
+    "INFOranking": 2
+  },
+  {
+    "emiter": "ZPUE SA",
+    "stockName": "ZPUE",
+    "ticker": "PUE",
+    "ISIN": "PLZPUE000012",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "Zremb-Chojnice SA",
+    "stockName": "ZREMB",
+    "ticker": "ZRE",
+    "ISIN": "PLZBMZC00019",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "ZUE SA",
+    "stockName": "ZUE",
+    "ticker": "ZUE",
+    "ISIN": "PLZUE0000015",
+    "industry": "Budownictwo",
+    "INFOranking": 1
+  },
+  {
+    "emiter": "ZUK Stąporków SA",
+    "stockName": "STAPORKOW",
+    "ticker": "ZUK",
+    "ISIN": "PLSTPRK00019",
+    "industry": "Elektromaszynowy",
+    "INFOranking": 0
+  }
+ ]
